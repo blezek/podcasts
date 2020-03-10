@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Bond</title>
+        <link>https://blezek.github.io/podcasts/bond.xml</link>
+        <description>Bond Audio books</description>
+        <generator>three mile island</generator>
+        <language>en</language>
+        <pubDate>Wed, 02 Oct 2019 06:47:33 -0500</pubDate>
+        <lastBuildDate>Wed, 02 Oct 2019 06:47:33 -0500</lastBuildDate>
+        
+        <item>
+            <title>Thunderball --James Bond.mp3</title>
+            <pubDate>Mon, 02 Sep 2019 19:23:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/ThunderballJamesBond/Thunderball%20--James%20Bond.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">C4396E60-7FF5-47D9-9AD5-7A403D1FE925</guid>
+        </item>
+        <item>
+            <title>Diamonds Are Forever.mp3</title>
+            <pubDate>Mon, 02 Sep 2019 17:17:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/DiamondsAreForever_201801/Diamonds%20Are%20Forever.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">CCAFFA11-14FF-4E8B-B24D-C266883FC720</guid>
+        </item>
+        <item>
+            <title>Moonraker.mp3</title>
+            <link>http://archive.org/download/Moonraker/Moonraker.mp3</link>
+            <pubDate>Mon, 09 Sep 2019 18:16:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/Moonraker/Moonraker.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A9CB9D2A-584C-423D-86BB-9CA2EE58C047</guid>
+        </item>
+    </channel>
+</rss>
