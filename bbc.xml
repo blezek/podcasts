@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>BBC Audio Drama</title>
+        <link>http://ftgm.blezek.com</link>
+        <description>BBC Audio</description>
+        <generator>Feeder 2.5.8(1906); Mac OS X Version 10.14.5 (Build 18F203) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <pubDate>Wed, 02 Oct 2019 06:47:26 -0500</pubDate>
+        <lastBuildDate>Wed, 02 Oct 2019 06:47:26 -0500</lastBuildDate>
+        <atom:link href="http://portfolio.parker.blezek.com.s3.amazonaws.com/bbc.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Moonraker.mp3</title>
+            <link>http://archive.org/download/Moonraker/Moonraker.mp3</link>
+            <pubDate>Mon, 09 Sep 2019 18:16:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/Moonraker/Moonraker.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A9CB9D2A-584C-423D-86BB-9CA2EE58C047</guid>
+        </item>
+        <item>
+            <title>01(4) Casino Royale.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/01%20-%20Ian%20Fleming%20-%20Casino%20Royale_unabridged/01%284%29%20Casino%20Royale.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/01%20-%20Ian%20Fleming%20-%20Casino%20Royale_unabridged/01%284%29%20Casino%20Royale.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A5A4D36C-7094-47DA-82E0-84C63D66F72B</guid>
+        </item>
+        <item>
+            <title>02(4) Casino Royale.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/01%20-%20Ian%20Fleming%20-%20Casino%20Royale_unabridged/02%284%29%20Casino%20Royale.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/01%20-%20Ian%20Fleming%20-%20Casino%20Royale_unabridged/02%284%29%20Casino%20Royale.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">05C7526F-B2FA-40E3-BC9C-BDBB78C9922E</guid>
+        </item>
+        <item>
+            <title>03(4) Casino Royale.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/01%20-%20Ian%20Fleming%20-%20Casino%20Royale_unabridged/03%284%29%20Casino%20Royale.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/01%20-%20Ian%20Fleming%20-%20Casino%20Royale_unabridged/03%284%29%20Casino%20Royale.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A76B86F8-5CEF-4B31-A1E5-07D34A12F94E</guid>
+        </item>
+        <item>
+            <title>04(4) Casino Royale.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/01%20-%20Ian%20Fleming%20-%20Casino%20Royale_unabridged/04%284%29%20Casino%20Royale.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/01%20-%20Ian%20Fleming%20-%20Casino%20Royale_unabridged/04%284%29%20Casino%20Royale.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">7FF337B2-1B0D-4E93-8F40-116CCAD9A66F</guid>
+        </item>
+        <item>
+            <title>B02-01-12 - Live and Let Die.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-01-12%20-%20Live%20and%20Let%20Die.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:04 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-01-12%20-%20Live%20and%20Let%20Die.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">27F0390C-A3FC-4E10-897A-DC542CB27BF0</guid>
+        </item>
+        <item>
+            <title>B02-02-12 - Live and Let Die.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-02-12%20-%20Live%20and%20Let%20Die.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-02-12%20-%20Live%20and%20Let%20Die.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">4FBFD0E3-AAE6-498C-9F6F-0BAF8C829EAD</guid>
+        </item>
+        <item>
+            <title>B02-03-12 - Live and Let Die.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-03-12%20-%20Live%20and%20Let%20Die.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:06 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-03-12%20-%20Live%20and%20Let%20Die.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">6E80F641-BD9E-4123-9B7A-89F6C3123566</guid>
+        </item>
+        <item>
+            <title>B02-04-12 - Live and Let Die.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-04-12%20-%20Live%20and%20Let%20Die.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:07 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-04-12%20-%20Live%20and%20Let%20Die.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">08684C3B-668D-4EB5-8C83-367B00385A7A</guid>
+        </item>
+        <item>
+            <title>B02-05-12 - Live and Let Die.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-05-12%20-%20Live%20and%20Let%20Die.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:08 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-05-12%20-%20Live%20and%20Let%20Die.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">B0581961-8564-4CC2-9FEA-1EC331747844</guid>
+        </item>
+        <item>
+            <title>B02-06-12 - Live and Let Die.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-06-12%20-%20Live%20and%20Let%20Die.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:09 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-06-12%20-%20Live%20and%20Let%20Die.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">FF19CB00-1D85-4A18-A8A8-A07EE8B1F2FB</guid>
+        </item>
+        <item>
+            <title>B02-07-12 - Live and Let Die.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-07-12%20-%20Live%20and%20Let%20Die.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:10 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-07-12%20-%20Live%20and%20Let%20Die.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">27BE8604-89FD-43EA-9A4D-4C139F4A09A8</guid>
+        </item>
+        <item>
+            <title>B02-08-12 - Live and Let Die.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-08-12%20-%20Live%20and%20Let%20Die.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:11 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-08-12%20-%20Live%20and%20Let%20Die.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">AB3D4E1E-6C63-420F-B5F7-2785F2010DC4</guid>
+        </item>
+        <item>
+            <title>B02-09-12 - Live and Let Die.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-09-12%20-%20Live%20and%20Let%20Die.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:12 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-09-12%20-%20Live%20and%20Let%20Die.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">6AEBF332-EE2C-44E4-8A45-A83190270F78</guid>
+        </item>
+        <item>
+            <title>B02-10-12 - Live and Let Die.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-10-12%20-%20Live%20and%20Let%20Die.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:13 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-10-12%20-%20Live%20and%20Let%20Die.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">FA649F84-285E-482A-B066-5FBB7256358A</guid>
+        </item>
+        <item>
+            <title>B02-11-12 - Live and Let Die.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-11-12%20-%20Live%20and%20Let%20Die.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:14 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-11-12%20-%20Live%20and%20Let%20Die.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F391A9AD-85B9-4AE0-8647-421F2BF5D02C</guid>
+        </item>
+        <item>
+            <title>B02-12-12 - Live and Let Die.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-12-12%20-%20Live%20and%20Let%20Die.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:15 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/02%20-%20Ian%20Fleming%20-%20Live%20and%20Let%20Die/B02-12-12%20-%20Live%20and%20Let%20Die.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">624F04B4-6A36-412D-8AA3-4F633E605879</guid>
+        </item>
+        <item>
+            <title>01(6) Moonraker.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/03%20-%20Ian%20Fleming%20-%20Moonraker_unabridged/01%286%29%20Moonraker.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:16 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/03%20-%20Ian%20Fleming%20-%20Moonraker_unabridged/01%286%29%20Moonraker.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">646CBC4A-3439-42DC-A879-2888D068A4E8</guid>
+        </item>
+        <item>
+            <title>02(6) Moonraker.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/03%20-%20Ian%20Fleming%20-%20Moonraker_unabridged/02%286%29%20Moonraker.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:17 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/03%20-%20Ian%20Fleming%20-%20Moonraker_unabridged/02%286%29%20Moonraker.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">41A45137-DE73-4CB7-8DB3-C9793BD5E685</guid>
+        </item>
+        <item>
+            <title>03(6) Moonraker.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/03%20-%20Ian%20Fleming%20-%20Moonraker_unabridged/03%286%29%20Moonraker.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:18 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/03%20-%20Ian%20Fleming%20-%20Moonraker_unabridged/03%286%29%20Moonraker.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A84E5177-BA27-4D24-B0F9-5076CD22681B</guid>
+        </item>
+        <item>
+            <title>04(6) Moonraker.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/03%20-%20Ian%20Fleming%20-%20Moonraker_unabridged/04%286%29%20Moonraker.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:19 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/03%20-%20Ian%20Fleming%20-%20Moonraker_unabridged/04%286%29%20Moonraker.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">9911A4E0-8615-4765-8062-3C3B51A0CC29</guid>
+        </item>
+        <item>
+            <title>05(6) Moonraker.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/03%20-%20Ian%20Fleming%20-%20Moonraker_unabridged/05%286%29%20Moonraker.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:20 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/03%20-%20Ian%20Fleming%20-%20Moonraker_unabridged/05%286%29%20Moonraker.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">1E09CBE3-F2AF-4AB9-B449-AEF067A28476</guid>
+        </item>
+        <item>
+            <title>06(6) Moonraker.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/03%20-%20Ian%20Fleming%20-%20Moonraker_unabridged/06%286%29%20Moonraker.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:21 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/03%20-%20Ian%20Fleming%20-%20Moonraker_unabridged/06%286%29%20Moonraker.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">AA621DC8-3D91-4924-AFCB-790039561044</guid>
+        </item>
+        <item>
+            <title>B04-01-12 - Diamonds are Forever.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-01-12%20-%20Diamonds%20are%20Forever.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:22 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-01-12%20-%20Diamonds%20are%20Forever.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">5F58643A-0F6A-4D0B-AFF9-67DB16AFB614</guid>
+        </item>
+        <item>
+            <title>B04-02-12 - Diamonds are Forever.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-02-12%20-%20Diamonds%20are%20Forever.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:23 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-02-12%20-%20Diamonds%20are%20Forever.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">20D6CA15-5C71-4D09-884F-51301C60CBC7</guid>
+        </item>
+        <item>
+            <title>B04-03-12 - Diamonds are Forever.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-03-12%20-%20Diamonds%20are%20Forever.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:24 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-03-12%20-%20Diamonds%20are%20Forever.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">0DFDA78E-C0AD-4D36-A724-46981F91380B</guid>
+        </item>
+        <item>
+            <title>B04-04-12 - Diamonds are Forever.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-04-12%20-%20Diamonds%20are%20Forever.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:25 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-04-12%20-%20Diamonds%20are%20Forever.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8DEC5241-4F7E-428C-BDC5-4E2241717E19</guid>
+        </item>
+        <item>
+            <title>B04-05-12 - Diamonds are Forever.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-05-12%20-%20Diamonds%20are%20Forever.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:26 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-05-12%20-%20Diamonds%20are%20Forever.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">717B02E5-B728-4086-AE0B-61F6F3BAE26F</guid>
+        </item>
+        <item>
+            <title>B04-06-12 - Diamonds are Forever.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-06-12%20-%20Diamonds%20are%20Forever.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:27 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-06-12%20-%20Diamonds%20are%20Forever.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">0F1DAECB-AC01-4C5B-B3F6-A8639E2C21E8</guid>
+        </item>
+        <item>
+            <title>B04-07-12 - Diamonds are Forever.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-07-12%20-%20Diamonds%20are%20Forever.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:28 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-07-12%20-%20Diamonds%20are%20Forever.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">B627E23D-6582-4A48-B9E6-BC2CA55E11A1</guid>
+        </item>
+        <item>
+            <title>B04-08-12 - Diamonds are Forever.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-08-12%20-%20Diamonds%20are%20Forever.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:29 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-08-12%20-%20Diamonds%20are%20Forever.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">5D604855-1C81-4533-9119-02F385809515</guid>
+        </item>
+        <item>
+            <title>B04-09-12 - Diamonds are Forever.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-09-12%20-%20Diamonds%20are%20Forever.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:30 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-09-12%20-%20Diamonds%20are%20Forever.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">200B9F6D-EEB5-4449-9B82-C5517B14F629</guid>
+        </item>
+        <item>
+            <title>B04-10-12 - Diamonds are Forever.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-10-12%20-%20Diamonds%20are%20Forever.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:31 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-10-12%20-%20Diamonds%20are%20Forever.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">DF99FF47-BBDD-4DC4-B559-07356D06F979</guid>
+        </item>
+        <item>
+            <title>B04-11-12 - Diamonds are Forever.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-11-12%20-%20Diamonds%20are%20Forever.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:32 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-11-12%20-%20Diamonds%20are%20Forever.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">DFB611BB-F9DB-4068-B740-562008F5F22B</guid>
+        </item>
+        <item>
+            <title>B04-12-12 - Diamonds are Forever.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-12-12%20-%20Diamonds%20are%20Forever.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:33 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/04%20-%20Ian%20Fleming%20-%20Diamonds%20are%20Forever/B04-12-12%20-%20Diamonds%20are%20Forever.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">899F7D32-705E-4834-8954-C1B93E1FD8B3</guid>
+        </item>
+        <item>
+            <title>01(7) From Russia with love.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/05%20-%20Ian%20Fleming%20-%20From%20Russia%20with%20Love_unabridged/01%287%29%20From%20Russia%20with%20love.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:34 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/05%20-%20Ian%20Fleming%20-%20From%20Russia%20with%20Love_unabridged/01%287%29%20From%20Russia%20with%20love.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F61A32CD-DD99-4103-90C5-A355CA4AB907</guid>
+        </item>
+        <item>
+            <title>02(7) From Russia with love.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/05%20-%20Ian%20Fleming%20-%20From%20Russia%20with%20Love_unabridged/02%287%29%20From%20Russia%20with%20love.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:35 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/05%20-%20Ian%20Fleming%20-%20From%20Russia%20with%20Love_unabridged/02%287%29%20From%20Russia%20with%20love.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">030CEFB1-8418-4EDE-8BD6-FFC1CCCCE94F</guid>
+        </item>
+        <item>
+            <title>03(7) From Russia with love.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/05%20-%20Ian%20Fleming%20-%20From%20Russia%20with%20Love_unabridged/03%287%29%20From%20Russia%20with%20love.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:36 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/05%20-%20Ian%20Fleming%20-%20From%20Russia%20with%20Love_unabridged/03%287%29%20From%20Russia%20with%20love.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">E6B98940-1162-4FF8-87A9-43A8EC3D8A65</guid>
+        </item>
+        <item>
+            <title>04(7) From Russia with love.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/05%20-%20Ian%20Fleming%20-%20From%20Russia%20with%20Love_unabridged/04%287%29%20From%20Russia%20with%20love.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:37 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/05%20-%20Ian%20Fleming%20-%20From%20Russia%20with%20Love_unabridged/04%287%29%20From%20Russia%20with%20love.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">B0DC55F6-F75E-4CD2-9C1C-7EE6C18F3C21</guid>
+        </item>
+        <item>
+            <title>05(7) From Russia with love.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/05%20-%20Ian%20Fleming%20-%20From%20Russia%20with%20Love_unabridged/05%287%29%20From%20Russia%20with%20love.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:38 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/05%20-%20Ian%20Fleming%20-%20From%20Russia%20with%20Love_unabridged/05%287%29%20From%20Russia%20with%20love.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">016B62DF-E037-4F67-9AB8-A9D37BCE89A6</guid>
+        </item>
+        <item>
+            <title>06(7) From Russia with love.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/05%20-%20Ian%20Fleming%20-%20From%20Russia%20with%20Love_unabridged/06%287%29%20From%20Russia%20with%20love.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:39 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/05%20-%20Ian%20Fleming%20-%20From%20Russia%20with%20Love_unabridged/06%287%29%20From%20Russia%20with%20love.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D14EC9C6-998F-40F8-99C0-BCDEDF92852D</guid>
+        </item>
+        <item>
+            <title>07(7) From Russia with love.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/05%20-%20Ian%20Fleming%20-%20From%20Russia%20with%20Love_unabridged/07%287%29%20From%20Russia%20with%20love.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:40 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/05%20-%20Ian%20Fleming%20-%20From%20Russia%20with%20Love_unabridged/07%287%29%20From%20Russia%20with%20love.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">1172BD72-464B-40C3-9AE6-C00B7E3B2A80</guid>
+        </item>
+        <item>
+            <title>01(7) Dr No.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/06%20-%20Ian%20Fleming%20-%20Dr%20No_unabridged/01%287%29%20Dr%20No.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:41 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/06%20-%20Ian%20Fleming%20-%20Dr%20No_unabridged/01%287%29%20Dr%20No.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">45EB8B6C-2F5B-4694-8FF0-CC796BE0FEB4</guid>
+        </item>
+        <item>
+            <title>02(7) Dr No.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/06%20-%20Ian%20Fleming%20-%20Dr%20No_unabridged/02%287%29%20Dr%20No.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:42 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/06%20-%20Ian%20Fleming%20-%20Dr%20No_unabridged/02%287%29%20Dr%20No.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A51EE22D-BBAA-4BFD-AB14-934D428D6391</guid>
+        </item>
+        <item>
+            <title>03(7) Dr No.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/06%20-%20Ian%20Fleming%20-%20Dr%20No_unabridged/03%287%29%20Dr%20No.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:43 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/06%20-%20Ian%20Fleming%20-%20Dr%20No_unabridged/03%287%29%20Dr%20No.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">0931AA1F-E89B-466B-A8DB-A9CF206BEDEE</guid>
+        </item>
+        <item>
+            <title>04(7) Dr No.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/06%20-%20Ian%20Fleming%20-%20Dr%20No_unabridged/04%287%29%20Dr%20No.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:44 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/06%20-%20Ian%20Fleming%20-%20Dr%20No_unabridged/04%287%29%20Dr%20No.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">48E92210-650B-4414-84C3-A1C771E4B39A</guid>
+        </item>
+        <item>
+            <title>05(7) Dr No.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/06%20-%20Ian%20Fleming%20-%20Dr%20No_unabridged/05%287%29%20Dr%20No.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:45 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/06%20-%20Ian%20Fleming%20-%20Dr%20No_unabridged/05%287%29%20Dr%20No.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">319B91F7-3072-4ECD-B3D9-62BB14C5455A</guid>
+        </item>
+        <item>
+            <title>06(7) Dr No.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/06%20-%20Ian%20Fleming%20-%20Dr%20No_unabridged/06%287%29%20Dr%20No.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:46 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/06%20-%20Ian%20Fleming%20-%20Dr%20No_unabridged/06%287%29%20Dr%20No.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">E8918CDA-EFB1-475A-B203-37D8203CF7E4</guid>
+        </item>
+        <item>
+            <title>07(7) Dr No.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/06%20-%20Ian%20Fleming%20-%20Dr%20No_unabridged/07%287%29%20Dr%20No.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:47 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/06%20-%20Ian%20Fleming%20-%20Dr%20No_unabridged/07%287%29%20Dr%20No.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F4845DC4-2986-4676-AB85-70C15A01A9E4</guid>
+        </item>
+        <item>
+            <title>01(8) Goldfinger.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/01%288%29%20Goldfinger.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:48 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/01%288%29%20Goldfinger.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D5B26EAE-54B0-4C53-A0A9-F361EE087BD6</guid>
+        </item>
+        <item>
+            <title>02(8) Goldfinger.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/02%288%29%20Goldfinger.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:49 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/02%288%29%20Goldfinger.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">CF0FE0B2-8BFB-4301-9326-2C2DF9B61AB8</guid>
+        </item>
+        <item>
+            <title>03(8) Goldfinger.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/03%288%29%20Goldfinger.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:50 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/03%288%29%20Goldfinger.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">91D64C7C-B55F-4BCD-A660-1A4ACE5FD4F3</guid>
+        </item>
+        <item>
+            <title>04(8) Goldfinger.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/04%288%29%20Goldfinger.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:51 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/04%288%29%20Goldfinger.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">16B5696A-7CE7-440F-B818-32CE65A82A6D</guid>
+        </item>
+        <item>
+            <title>05(8) Goldfinger.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/05%288%29%20Goldfinger.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:52 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/05%288%29%20Goldfinger.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">BF9BE7D3-1AC5-4B04-837C-5E4709B2F098</guid>
+        </item>
+        <item>
+            <title>06(8) Goldfinger.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/06%288%29%20Goldfinger.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:53 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/06%288%29%20Goldfinger.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8EF82BF5-7D18-4D68-A2C0-BE1C4518CF4C</guid>
+        </item>
+        <item>
+            <title>07(8) Goldfinger.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/07%288%29%20Goldfinger.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:54 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/07%288%29%20Goldfinger.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">81671A8B-1F08-4725-B70F-DF38816D653B</guid>
+        </item>
+        <item>
+            <title>08(8) Goldfinger.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/08%288%29%20Goldfinger.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:55 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/07%20-%20Ian%20Fleming%20-%20Goldfinger_unabridged/08%288%29%20Goldfinger.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">04E49A29-5162-42D6-8E4A-397F0729F477</guid>
+        </item>
+        <item>
+            <title>01(5) For Your Eyes Only.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/08%20-%20Ian%20Fleming%20-%20For%20Your%20Eyes%20Only_unabridged/01%285%29%20For%20Your%20Eyes%20Only.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:56 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/08%20-%20Ian%20Fleming%20-%20For%20Your%20Eyes%20Only_unabridged/01%285%29%20For%20Your%20Eyes%20Only.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">7596C88D-606D-4AE1-9CB2-BFBD19BB73D1</guid>
+        </item>
+        <item>
+            <title>02(5) For Your Eyes Only.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/08%20-%20Ian%20Fleming%20-%20For%20Your%20Eyes%20Only_unabridged/02%285%29%20For%20Your%20Eyes%20Only.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:57 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/08%20-%20Ian%20Fleming%20-%20For%20Your%20Eyes%20Only_unabridged/02%285%29%20For%20Your%20Eyes%20Only.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D7EDC33E-49FB-4906-BAA6-D60D9D8A2C40</guid>
+        </item>
+        <item>
+            <title>03(5) For Your Eyes Only.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/08%20-%20Ian%20Fleming%20-%20For%20Your%20Eyes%20Only_unabridged/03%285%29%20For%20Your%20Eyes%20Only.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:58 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/08%20-%20Ian%20Fleming%20-%20For%20Your%20Eyes%20Only_unabridged/03%285%29%20For%20Your%20Eyes%20Only.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">E677D828-C39E-47DD-B496-B029CD6CA7F5</guid>
+        </item>
+        <item>
+            <title>04(5) For Your Eyes Only.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/08%20-%20Ian%20Fleming%20-%20For%20Your%20Eyes%20Only_unabridged/04%285%29%20For%20Your%20Eyes%20Only.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/08%20-%20Ian%20Fleming%20-%20For%20Your%20Eyes%20Only_unabridged/04%285%29%20For%20Your%20Eyes%20Only.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">74F855C7-6C78-4EA3-8BA6-83701A9A9E14</guid>
+        </item>
+        <item>
+            <title>05(5) For Your Eyes Only.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/08%20-%20Ian%20Fleming%20-%20For%20Your%20Eyes%20Only_unabridged/05%285%29%20For%20Your%20Eyes%20Only.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/08%20-%20Ian%20Fleming%20-%20For%20Your%20Eyes%20Only_unabridged/05%285%29%20For%20Your%20Eyes%20Only.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">7D8BB481-C96A-4B13-8C3F-0A64A8DE37CD</guid>
+        </item>
+        <item>
+            <title>01(7) Thunderball.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/09%20-%20Ian%20Fleming%20-%20Thunderball_unabridged/01%287%29%20Thunderball.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/09%20-%20Ian%20Fleming%20-%20Thunderball_unabridged/01%287%29%20Thunderball.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A4AE7EC6-6220-4BC4-86B5-6FFFDEA2BA84</guid>
+        </item>
+        <item>
+            <title>02(7) Thunderball.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/09%20-%20Ian%20Fleming%20-%20Thunderball_unabridged/02%287%29%20Thunderball.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/09%20-%20Ian%20Fleming%20-%20Thunderball_unabridged/02%287%29%20Thunderball.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">CC537DD3-E185-4D04-98F7-4AF9DE4B2825</guid>
+        </item>
+        <item>
+            <title>03(7) Thunderball.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/09%20-%20Ian%20Fleming%20-%20Thunderball_unabridged/03%287%29%20Thunderball.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/09%20-%20Ian%20Fleming%20-%20Thunderball_unabridged/03%287%29%20Thunderball.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">2F96F5C8-F9DD-48E8-B361-934003010EA9</guid>
+        </item>
+        <item>
+            <title>04(7) Thunderball.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/09%20-%20Ian%20Fleming%20-%20Thunderball_unabridged/04%287%29%20Thunderball.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/09%20-%20Ian%20Fleming%20-%20Thunderball_unabridged/04%287%29%20Thunderball.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A785CE04-D5DA-43CE-B848-84BE5882A214</guid>
+        </item>
+        <item>
+            <title>05(7) Thunderball.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/09%20-%20Ian%20Fleming%20-%20Thunderball_unabridged/05%287%29%20Thunderball.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/09%20-%20Ian%20Fleming%20-%20Thunderball_unabridged/05%287%29%20Thunderball.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">4CA955C6-A8EC-4E1A-9156-80D11DD381D2</guid>
+        </item>
+        <item>
+            <title>06(7) Thunderball.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/09%20-%20Ian%20Fleming%20-%20Thunderball_unabridged/06%287%29%20Thunderball.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/09%20-%20Ian%20Fleming%20-%20Thunderball_unabridged/06%287%29%20Thunderball.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">220E91C4-D591-4EED-925F-DB6BD18527FF</guid>
+        </item>
+        <item>
+            <title>07(7) Thunderball.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/09%20-%20Ian%20Fleming%20-%20Thunderball_unabridged/07%287%29%20Thunderball.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/09%20-%20Ian%20Fleming%20-%20Thunderball_unabridged/07%287%29%20Thunderball.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">DCAA6AA6-D9AC-4B0B-8E3E-5ED86A647408</guid>
+        </item>
+        <item>
+            <title>B10-1-8 - The Spy Who Loved Me.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-1-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-1-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">E77B8DD8-CC03-4E57-8109-8D3AE54D3D5C</guid>
+        </item>
+        <item>
+            <title>B10-2-8 - The Spy Who Loved Me.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-2-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-2-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">5E0B918A-7AD5-4216-9B40-5DE4ABF4A9B4</guid>
+        </item>
+        <item>
+            <title>B10-3-8 - The Spy Who Loved Me.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-3-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-3-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">786AAF29-1F6B-41AD-BF1B-19B179992FE0</guid>
+        </item>
+        <item>
+            <title>B10-4-8 - The Spy Who Loved Me.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-4-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-4-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">CB206C7B-C194-4333-9413-AC4A249DFF96</guid>
+        </item>
+        <item>
+            <title>B10-5-8 - The Spy Who Loved Me.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-5-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-5-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">64B848E2-0921-44C1-B49E-EF1DCBD4B53C</guid>
+        </item>
+        <item>
+            <title>B10-6-8 - The Spy Who Loved Me.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-6-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-6-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">C7FB9EEB-6CED-461B-B26E-BF5C4DB7EAFD</guid>
+        </item>
+        <item>
+            <title>B10-7-8 - The Spy Who Loved Me.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-7-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-7-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">21C35E1F-5484-4BC2-A529-373724465ECC</guid>
+        </item>
+        <item>
+            <title>B10-8-8 - The Spy Who Loved Me.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-8-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/10%20-%20Ian%20Fleming%20-%20The%20Spy%20Who%20Loved%20Me/B10-8-8%20-%20The%20Spy%20Who%20Loved%20Me.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D61A1219-1AB0-4D81-A651-DF0CF6B6BCA7</guid>
+        </item>
+        <item>
+            <title>01(7) Her Majestys Secret Servic.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/11%20-%20Ian%20Fleming%20-%20On%20Her%20Majestys%20Secret%20Service_unabridged/01%287%29%20Her%20Majestys%20Secret%20Servic.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/11%20-%20Ian%20Fleming%20-%20On%20Her%20Majestys%20Secret%20Service_unabridged/01%287%29%20Her%20Majestys%20Secret%20Servic.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">0D8EEC4B-2AA7-4247-B11B-29E5526BE30A</guid>
+        </item>
+        <item>
+            <title>02(7) Her Majestys Secret Servic.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/11%20-%20Ian%20Fleming%20-%20On%20Her%20Majestys%20Secret%20Service_unabridged/02%287%29%20Her%20Majestys%20Secret%20Servic.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/11%20-%20Ian%20Fleming%20-%20On%20Her%20Majestys%20Secret%20Service_unabridged/02%287%29%20Her%20Majestys%20Secret%20Servic.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">B395581B-2B7E-4EF7-AE8F-3C9A8CC2F33D</guid>
+        </item>
+        <item>
+            <title>03(7) Her Majestys Secret Servic.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/11%20-%20Ian%20Fleming%20-%20On%20Her%20Majestys%20Secret%20Service_unabridged/03%287%29%20Her%20Majestys%20Secret%20Servic.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/11%20-%20Ian%20Fleming%20-%20On%20Her%20Majestys%20Secret%20Service_unabridged/03%287%29%20Her%20Majestys%20Secret%20Servic.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8D506E29-9CE8-47CE-8319-A8D0F4DFBFE4</guid>
+        </item>
+        <item>
+            <title>04(7) Her Majestys Secret Servic.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/11%20-%20Ian%20Fleming%20-%20On%20Her%20Majestys%20Secret%20Service_unabridged/04%287%29%20Her%20Majestys%20Secret%20Servic.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/11%20-%20Ian%20Fleming%20-%20On%20Her%20Majestys%20Secret%20Service_unabridged/04%287%29%20Her%20Majestys%20Secret%20Servic.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8E1351AC-3C0C-472C-BF75-A7DCC668A358</guid>
+        </item>
+        <item>
+            <title>05(7) Her Majestys Secret Servic.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/11%20-%20Ian%20Fleming%20-%20On%20Her%20Majestys%20Secret%20Service_unabridged/05%287%29%20Her%20Majestys%20Secret%20Servic.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/11%20-%20Ian%20Fleming%20-%20On%20Her%20Majestys%20Secret%20Service_unabridged/05%287%29%20Her%20Majestys%20Secret%20Servic.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">B0D11529-DF5E-42A7-9B2D-1DFC9E235157</guid>
+        </item>
+        <item>
+            <title>06(7) Her Majestys Secret Servic.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/11%20-%20Ian%20Fleming%20-%20On%20Her%20Majestys%20Secret%20Service_unabridged/06%287%29%20Her%20Majestys%20Secret%20Servic.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/11%20-%20Ian%20Fleming%20-%20On%20Her%20Majestys%20Secret%20Service_unabridged/06%287%29%20Her%20Majestys%20Secret%20Servic.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">26FF7327-4BF8-420E-B680-63685DD11183</guid>
+        </item>
+        <item>
+            <title>07(7) Her Majestys Secret Servic.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/11%20-%20Ian%20Fleming%20-%20On%20Her%20Majestys%20Secret%20Service_unabridged/07%287%29%20Her%20Majestys%20Secret%20Servic.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/11%20-%20Ian%20Fleming%20-%20On%20Her%20Majestys%20Secret%20Service_unabridged/07%287%29%20Her%20Majestys%20Secret%20Servic.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">EE1B3951-D096-45FA-8867-167DA5BC9B8F</guid>
+        </item>
+        <item>
+            <title>B12-01-12 - You Only Live Twice.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-01-12%20-%20You%20Only%20Live%20Twice.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-01-12%20-%20You%20Only%20Live%20Twice.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">CD5F80FD-AE01-4548-A694-85C5E715C00F</guid>
+        </item>
+        <item>
+            <title>B12-02-12 - You Only Live Twice.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-02-12%20-%20You%20Only%20Live%20Twice.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-02-12%20-%20You%20Only%20Live%20Twice.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D859BBA2-E350-4624-BADE-16DBDBE82C83</guid>
+        </item>
+        <item>
+            <title>B12-03-12 - You Only Live Twice.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-03-12%20-%20You%20Only%20Live%20Twice.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-03-12%20-%20You%20Only%20Live%20Twice.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">6C600EEB-A7D7-4746-8566-DD48A3A60C61</guid>
+        </item>
+        <item>
+            <title>B12-04-12 - You Only Live Twice.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-04-12%20-%20You%20Only%20Live%20Twice.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-04-12%20-%20You%20Only%20Live%20Twice.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F3BD3E53-3343-405B-BF6F-354103D9D0D6</guid>
+        </item>
+        <item>
+            <title>B12-05-12 - You Only Live Twice.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-05-12%20-%20You%20Only%20Live%20Twice.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-05-12%20-%20You%20Only%20Live%20Twice.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">B12B9246-3B1B-41F6-A02F-964DB6859E85</guid>
+        </item>
+        <item>
+            <title>B12-06-12 - You Only Live Twice.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-06-12%20-%20You%20Only%20Live%20Twice.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-06-12%20-%20You%20Only%20Live%20Twice.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F47CBDBD-9C23-4F66-804F-B7DF8E621A82</guid>
+        </item>
+        <item>
+            <title>B12-07-12 - You Only Live Twice.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-07-12%20-%20You%20Only%20Live%20Twice.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-07-12%20-%20You%20Only%20Live%20Twice.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">5FD5C72E-632D-4C94-B4B6-B77F4509DE6F</guid>
+        </item>
+        <item>
+            <title>B12-08-12 - You Only Live Twice.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-08-12%20-%20You%20Only%20Live%20Twice.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-08-12%20-%20You%20Only%20Live%20Twice.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">22EA8AA9-0456-4FF2-9376-0145B27B76F2</guid>
+        </item>
+        <item>
+            <title>B12-09-12 - You Only Live Twice.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-09-12%20-%20You%20Only%20Live%20Twice.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-09-12%20-%20You%20Only%20Live%20Twice.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">E6CCB33A-40AF-49FE-92EC-61001E512014</guid>
+        </item>
+        <item>
+            <title>B12-10-12 - You Only Live Twice.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-10-12%20-%20You%20Only%20Live%20Twice.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-10-12%20-%20You%20Only%20Live%20Twice.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">AAF99F03-EF01-4FEB-86BB-6A9CF7825CA4</guid>
+        </item>
+        <item>
+            <title>B12-11-12 - You Only Live Twice.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-11-12%20-%20You%20Only%20Live%20Twice.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-11-12%20-%20You%20Only%20Live%20Twice.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">616FF06F-CEEF-4112-AD7E-034D3515C0E8</guid>
+        </item>
+        <item>
+            <title>B12-12-12 - You Only Live Twice.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-12-12%20-%20You%20Only%20Live%20Twice.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/12%20-%20Ian%20Fleming%20-%20You%20Only%20Live%20Twice/B12-12-12%20-%20You%20Only%20Live%20Twice.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D1872DD9-A117-49C7-A559-D41162265C6D</guid>
+        </item>
+        <item>
+            <title>01(4) The Man With The Golden.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/13%20-%20Ian%20Fleming%20-%20The%20Man%20With%20The%20Golden%20Gun_unabridged/01%284%29%20The%20Man%20With%20The%20Golden.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/13%20-%20Ian%20Fleming%20-%20The%20Man%20With%20The%20Golden%20Gun_unabridged/01%284%29%20The%20Man%20With%20The%20Golden.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F304726E-E15E-4CFE-AD8A-3A3CDE017EF1</guid>
+        </item>
+        <item>
+            <title>02(4) The Man With The Golden.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/13%20-%20Ian%20Fleming%20-%20The%20Man%20With%20The%20Golden%20Gun_unabridged/02%284%29%20The%20Man%20With%20The%20Golden.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/13%20-%20Ian%20Fleming%20-%20The%20Man%20With%20The%20Golden%20Gun_unabridged/02%284%29%20The%20Man%20With%20The%20Golden.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8AC121D6-E66F-47B0-A81B-43FAB3B10C98</guid>
+        </item>
+        <item>
+            <title>03(4) The Man With The Golden.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/13%20-%20Ian%20Fleming%20-%20The%20Man%20With%20The%20Golden%20Gun_unabridged/03%284%29%20The%20Man%20With%20The%20Golden.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/13%20-%20Ian%20Fleming%20-%20The%20Man%20With%20The%20Golden%20Gun_unabridged/03%284%29%20The%20Man%20With%20The%20Golden.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">3698976F-DC01-4818-AD9D-5C6139E5C330</guid>
+        </item>
+        <item>
+            <title>04(4) The Man With The Golden.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/13%20-%20Ian%20Fleming%20-%20The%20Man%20With%20The%20Golden%20Gun_unabridged/04%284%29%20The%20Man%20With%20The%20Golden.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/13%20-%20Ian%20Fleming%20-%20The%20Man%20With%20The%20Golden%20Gun_unabridged/04%284%29%20The%20Man%20With%20The%20Golden.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">969FF132-272C-4462-91DF-9E3FBF697534</guid>
+        </item>
+        <item>
+            <title>01(3) Octopussy.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/14%20-%20Ian%20Fleming%20-%20Octopussy_unabridged/01%283%29%20Octopussy.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/14%20-%20Ian%20Fleming%20-%20Octopussy_unabridged/01%283%29%20Octopussy.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">201A7BA3-86F3-45AC-8EBB-486BB15F0C13</guid>
+        </item>
+        <item>
+            <title>02(3) Octopussy.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/14%20-%20Ian%20Fleming%20-%20Octopussy_unabridged/02%283%29%20Octopussy.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/14%20-%20Ian%20Fleming%20-%20Octopussy_unabridged/02%283%29%20Octopussy.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">377CD7CF-9810-4A70-BDCC-97FC5B932710</guid>
+        </item>
+        <item>
+            <title>03(3) Octopussy.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/14%20-%20Ian%20Fleming%20-%20Octopussy_unabridged/03%283%29%20Octopussy.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/14%20-%20Ian%20Fleming%20-%20Octopussy_unabridged/03%283%29%20Octopussy.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">7EEF9DBB-FA17-4B7B-9833-0E91FF81E0D3</guid>
+        </item>
+        <item>
+            <title>01(6) Colonel Sun.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/15%20-%20Kingsley%20Amis%20-%20Ian%20Fleming%20-%20Colonel%20Sun_unabridged/01%286%29%20Colonel%20Sun.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/15%20-%20Kingsley%20Amis%20-%20Ian%20Fleming%20-%20Colonel%20Sun_unabridged/01%286%29%20Colonel%20Sun.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">E543A355-42D6-4C14-82CF-A61251783E1B</guid>
+        </item>
+        <item>
+            <title>02(6) Colonel Sun.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/15%20-%20Kingsley%20Amis%20-%20Ian%20Fleming%20-%20Colonel%20Sun_unabridged/02%286%29%20Colonel%20Sun.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/15%20-%20Kingsley%20Amis%20-%20Ian%20Fleming%20-%20Colonel%20Sun_unabridged/02%286%29%20Colonel%20Sun.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">333695A4-28B2-4E0A-833D-4DC66EE3804A</guid>
+        </item>
+        <item>
+            <title>03(6) Colonel Sun.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/15%20-%20Kingsley%20Amis%20-%20Ian%20Fleming%20-%20Colonel%20Sun_unabridged/03%286%29%20Colonel%20Sun.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/15%20-%20Kingsley%20Amis%20-%20Ian%20Fleming%20-%20Colonel%20Sun_unabridged/03%286%29%20Colonel%20Sun.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">EE7B1F29-2297-46FE-A056-55A6442087F8</guid>
+        </item>
+        <item>
+            <title>04(6) Colonel Sun.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/15%20-%20Kingsley%20Amis%20-%20Ian%20Fleming%20-%20Colonel%20Sun_unabridged/04%286%29%20Colonel%20Sun.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/15%20-%20Kingsley%20Amis%20-%20Ian%20Fleming%20-%20Colonel%20Sun_unabridged/04%286%29%20Colonel%20Sun.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">238E8873-3202-4D9B-8A20-9C1D868F65DD</guid>
+        </item>
+        <item>
+            <title>05(6) Colonel Sun.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/15%20-%20Kingsley%20Amis%20-%20Ian%20Fleming%20-%20Colonel%20Sun_unabridged/05%286%29%20Colonel%20Sun.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/15%20-%20Kingsley%20Amis%20-%20Ian%20Fleming%20-%20Colonel%20Sun_unabridged/05%286%29%20Colonel%20Sun.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">EAC11577-7004-4449-A4BC-871F69B885B3</guid>
+        </item>
+        <item>
+            <title>06(6) Colonel Sun.mp3</title>
+            <link>http://archive.org/download/JamesBondAudioBooks/15%20-%20Kingsley%20Amis%20-%20Ian%20Fleming%20-%20Colonel%20Sun_unabridged/06%286%29%20Colonel%20Sun.mp3</link>
+            <pubDate>Mon, 02 Sep 2019 14:48:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/JamesBondAudioBooks/15%20-%20Kingsley%20Amis%20-%20Ian%20Fleming%20-%20Colonel%20Sun_unabridged/06%286%29%20Colonel%20Sun.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8A3F74B2-9C2E-4984-8489-225C5945DF3D</guid>
+        </item>
+        <item>
+            <title>Dr No.mp3</title>
+            <pubDate>Mon, 02 Sep 2019 03:14:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/DrNoJamesBondIanFleming/Dr%20No.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D9421DA1-2455-4141-8368-3E88CBC8F647</guid>
+        </item>
+        <item>
+            <title>Casino Royale.mp3</title>
+            <pubDate>Mon, 02 Sep 2019 12:35:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/CasinoRoyaleByIanFlemingReading/Casino%20Royale.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">627BC520-8DDD-49D5-86AE-23E60D0AEAD3</guid>
+        </item>
+        <item>
+            <title>From Russia with Love 21-07-12.mp3</title>
+            <pubDate>Mon, 02 Sep 2019 12:04:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/FromRussiaWithLove210712/From%20Russia%20with%20Love%2021-07-12.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">21962617-96A9-4E6B-BA7A-DCDB3C29A801</guid>
+        </item>
+        <item>
+            <title>On Her Majesty's Secret Service.mp3</title>
+            <pubDate>Mon, 02 Sep 2019 02:59:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/OnHerMajestysSecretService_201801/On%20Her%20Majesty%27s%20Secret%20Service.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">2A9BA8D8-DDBC-46D7-B728-A4EED1308FE0</guid>
+        </item>
+        <item>
+            <title>You Only Live Twice.mp3</title>
+            <pubDate>Mon, 02 Sep 2019 12:47:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/YouOnlyLiveTwice_201801/You%20Only%20Live%20Twice.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">1FEC8727-6527-4B76-B824-34F1FA230AE5</guid>
+        </item>
+        <item>
+            <title>Diamonds Are Forever.mp3</title>
+            <pubDate>Mon, 02 Sep 2019 17:17:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/DiamondsAreForever_201801/Diamonds%20Are%20Forever.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">CCAFFA11-14FF-4E8B-B24D-C266883FC720</guid>
+        </item>
+        <item>
+            <title>Thunderball --James Bond.mp3</title>
+            <pubDate>Mon, 02 Sep 2019 19:23:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/ThunderballJamesBond/Thunderball%20--James%20Bond.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">C4396E60-7FF5-47D9-9AD5-7A403D1FE925</guid>
+        </item>
+        <item>
+            <title>Caves of Steel.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 14:25:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/CavesOfSteel_201707/Caves%20of%20Steel.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">04A20966-D8AA-409B-8B1B-B5ADFFD8BAD8</guid>
+        </item>
+        <item>
+            <title>Wall of Darkness.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 06:09:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/WallOfDarkness/Wall%20of%20Darkness.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">BFB9D42D-F757-4E6D-A772-EEC69F12DF0D</guid>
+        </item>
+        <item>
+            <title>Torchwood 01.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 11:04:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/Torchwood_201809/Torchwood%2001.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">0354EE1D-DF86-46DA-8D24-CAEC35193084</guid>
+        </item>
+        <item>
+            <title>Torchwood 02.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 11:04:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/Torchwood_201809/Torchwood%2002.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">877A4853-5B33-4FD1-A5E8-7E8F198B4A84</guid>
+        </item>
+        <item>
+            <title>Torchwood 03.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 11:04:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/Torchwood_201809/Torchwood%2003.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">5D52E7F1-9644-4B1A-A27F-5A1936EF9AE5</guid>
+        </item>
+        <item>
+            <title>Torchwood 04.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 11:04:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/Torchwood_201809/Torchwood%2004.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">DDEF1160-2C80-41D4-A18C-F9897AAA07A2</guid>
+        </item>
+        <item>
+            <title>Torchwood 05.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 11:04:04 -0500</pubDate>
+            <enclosure url="http://archive.org/download/Torchwood_201809/Torchwood%2005.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">505AB563-084E-4E46-8AB9-002B5E2EAE17</guid>
+        </item>
+        <item>
+            <title>Torchwood 06.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 11:04:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/Torchwood_201809/Torchwood%2006.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8F0FE25B-C744-4C89-95B5-152D38A16E18</guid>
+        </item>
+        <item>
+            <title>Torchwood 07.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 11:04:06 -0500</pubDate>
+            <enclosure url="http://archive.org/download/Torchwood_201809/Torchwood%2007.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">AB618AC7-178E-48BA-A512-73E0519242A0</guid>
+        </item>
+        <item>
+            <title>Ordeal in Space.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:11:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/OrdealInSpace/Ordeal%20in%20Space.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">44A23D0C-5DA5-4FC3-80C7-425378D67B90</guid>
+        </item>
+        <item>
+            <title>01 1 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/01%201%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">35410C78-24DC-4106-B756-47A2034DBC31</guid>
+        </item>
+        <item>
+            <title>02 2 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/02%202%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">53FBBC30-2C3B-47FE-883E-C1FDB59F556A</guid>
+        </item>
+        <item>
+            <title>03 3 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/03%203%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">18E1E4A3-4DA6-4C7A-96EF-7D5CFF474186</guid>
+        </item>
+        <item>
+            <title>04 4 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/04%204%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">E61581CD-5B98-4F78-9664-5E8C2D9C0402</guid>
+        </item>
+        <item>
+            <title>05 5 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:04 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/05%205%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">837EB223-BC1B-4EBD-A881-3C68BE43B4E6</guid>
+        </item>
+        <item>
+            <title>06 6 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/06%206%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">7CAC3FF3-E055-4FB9-86A4-972B9BC795F4</guid>
+        </item>
+        <item>
+            <title>07 7 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:06 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/07%207%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">CF47A19D-3A38-49A3-938F-F65C28811FF3</guid>
+        </item>
+        <item>
+            <title>08 8 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:07 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/08%208%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">73A59DD1-0875-40C1-A086-0013388B6A81</guid>
+        </item>
+        <item>
+            <title>09 9 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:08 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/09%209%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8BC53EAA-283F-4C51-B482-D533ED03BDA9</guid>
+        </item>
+        <item>
+            <title>10 10 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:09 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/10%2010%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">AD9BD348-C55D-4ACC-A53D-5C831DBBF801</guid>
+        </item>
+        <item>
+            <title>11 11 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:10 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/11%2011%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">94E2172A-432E-44A2-9B56-78CCB19FAC2F</guid>
+        </item>
+        <item>
+            <title>12 12 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:11 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/12%2012%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">433F5971-AEC9-4303-9E5D-C59E776C5FDF</guid>
+        </item>
+        <item>
+            <title>13 13 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:12 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/13%2013%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">C0E58E4A-9930-47DA-9D00-ADF45A3B8A8B</guid>
+        </item>
+        <item>
+            <title>14 14 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:13 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/14%2014%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">7718510D-7BAE-4578-BD18-88F2A4DD8107</guid>
+        </item>
+        <item>
+            <title>15 15 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:14 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/15%2015%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">21F5BD3D-C601-43F0-B85F-9426374FAE9B</guid>
+        </item>
+        <item>
+            <title>16 16 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:15 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/16%2016%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">4081E312-D579-4DB4-8E66-D00AD3136BB0</guid>
+        </item>
+        <item>
+            <title>17 17 - The Puppet Masters.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:43:16 -0500</pubDate>
+            <enclosure url="http://archive.org/download/The_Puppet_Masters/17%2017%20-%20The%20Puppet%20Masters.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F32C01C2-2E43-4E33-BE91-17BFE17F94B4</guid>
+        </item>
+        <item>
+            <title>Methuselah's Children 01.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:50:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/MethuselahsChildren/Methuselah%27s%20Children%2001.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">3711DBDD-968A-4679-BCF1-D2ABA7EC80A7</guid>
+        </item>
+        <item>
+            <title>Methuselah's Children 02.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:50:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/MethuselahsChildren/Methuselah%27s%20Children%2002.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">3B209442-3659-467B-BA54-73A84B4F7D49</guid>
+        </item>
+        <item>
+            <title>Methuselah's Children 03.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:50:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/MethuselahsChildren/Methuselah%27s%20Children%2003.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">6D835F81-F947-4D6F-8727-3523ECDA6F3A</guid>
+        </item>
+        <item>
+            <title>Methuselah's Children 04.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:50:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/MethuselahsChildren/Methuselah%27s%20Children%2004.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">26723CBC-BD34-4B73-8439-9F36E0587D5E</guid>
+        </item>
+        <item>
+            <title>Methuselah's Children 05.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:50:04 -0500</pubDate>
+            <enclosure url="http://archive.org/download/MethuselahsChildren/Methuselah%27s%20Children%2005.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F66D4834-178A-44CF-8E1A-36047A93665E</guid>
+        </item>
+        <item>
+            <title>Methuselah's Children 06.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:50:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/MethuselahsChildren/Methuselah%27s%20Children%2006.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">2A3B76E7-8A2A-40C2-A60C-B103648E3EA5</guid>
+        </item>
+        <item>
+            <title>01 Last Rose Of Summer, The.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 07:55:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/LastRoseOfSummerThe/01%20Last%20Rose%20Of%20Summer%2c%20The.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">03ADFAB6-6A69-4516-84F2-372DBBC2CF66</guid>
+        </item>
+        <item>
+            <title>02 Hunters Moon.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 01:50:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/HuntersMoon_201809/02%20Hunters%20Moon.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">C1486819-CE0F-4D35-AB0E-E370AD941F8A</guid>
+        </item>
+        <item>
+            <title>03 Babylon Run.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 09:05:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/BabylonRun/03%20Babylon%20Run.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">30E0A64B-4402-4A8D-A185-F65669C81789</guid>
+        </item>
+        <item>
+            <title>War of the Worlds 01.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 15:21:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/WarOfTheWorlds2017_201902/War%20of%20the%20Worlds%2001.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">88F8B340-1ECB-4673-BC81-02A146A907CC</guid>
+        </item>
+        <item>
+            <title>War of the Worlds 02.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 15:21:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/WarOfTheWorlds2017_201902/War%20of%20the%20Worlds%2002.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">70F6555E-EE21-4AC7-B98B-95BC1E15D020</guid>
+        </item>
+        <item>
+            <title>African Queen, The 2015.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 05:56:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/AfricanQueenThe2015/African%20Queen%2c%20The%202015.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">ED9FA2D4-62BE-41D7-BE29-570886CCEEF4</guid>
+        </item>
+        <item>
+            <title>Hornblower The Crisis.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:22:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/HornblowerTheCrisis/Hornblower%20%26%20The%20Crisis.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D3B786BA-39DD-4EE5-B11E-E7C1756B4A55</guid>
+        </item>
+        <item>
+            <title>Pursued, The.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 16:58:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PursuedThe/Pursued%2c%20The.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">3D4F8828-475F-4496-BB0A-FA041093E115</guid>
+        </item>
+        <item>
+            <title>Plain Murder.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 13:06:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PlainMurder/Plain%20Murder.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">3CDC64BD-E70A-4298-95C0-AE3D9BA8502E</guid>
+        </item>
+        <item>
+            <title>Chosen, The.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 15:15:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/ChosenThe/Chosen%2c%20The.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">FDEF1A4E-0117-4D50-94F5-4DFB4AC04FCC</guid>
+        </item>
+        <item>
+            <title>Vostok.mp3</title>
+            <link>http://archive.org/download/Vostok_201811/Vostok.mp3</link>
+            <pubDate>Sat, 01 Jun 2019 13:34:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/Vostok_201811/Vostok.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">2F05815C-E175-4B19-B979-BEBFE8237CF4</guid>
+        </item>
+        <item>
+            <title>Star Wars 01.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 16:05:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/StarWarsRadio_201707/Star%20Wars%2001.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F9028611-455F-4627-80A5-F2CB36950790</guid>
+        </item>
+        <item>
+            <title>Star Wars 02.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 16:05:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/StarWarsRadio_201707/Star%20Wars%2002.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">FC75F113-0312-4252-ACDD-FCB4EA058C75</guid>
+        </item>
+        <item>
+            <title>Star Wars 03.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 16:05:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/StarWarsRadio_201707/Star%20Wars%2003.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F50B04BE-707F-4459-9F8A-DC0606AF0519</guid>
+        </item>
+        <item>
+            <title>Star Wars 04.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 16:05:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/StarWarsRadio_201707/Star%20Wars%2004.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">AB7FE9C0-9377-4FED-91C0-B29D647FA3FB</guid>
+        </item>
+        <item>
+            <title>Star Wars 05.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 16:05:04 -0500</pubDate>
+            <enclosure url="http://archive.org/download/StarWarsRadio_201707/Star%20Wars%2005.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">B710DFB3-F7EF-41C2-AA5F-DB39C94483CA</guid>
+        </item>
+        <item>
+            <title>Star Wars 06.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 16:05:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/StarWarsRadio_201707/Star%20Wars%2006.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">DB6463E5-744D-4F77-8F58-42E2B184E6BB</guid>
+        </item>
+        <item>
+            <title>Star Wars 07.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 16:05:06 -0500</pubDate>
+            <enclosure url="http://archive.org/download/StarWarsRadio_201707/Star%20Wars%2007.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">32F543A5-43BA-4DDD-A3BB-B91F40F32A9E</guid>
+        </item>
+        <item>
+            <title>Star Wars 08.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 16:05:07 -0500</pubDate>
+            <enclosure url="http://archive.org/download/StarWarsRadio_201707/Star%20Wars%2008.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">1969CABA-869B-4E89-B3D8-3ECC6F3921D1</guid>
+        </item>
+        <item>
+            <title>Star Wars 09.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 16:05:08 -0500</pubDate>
+            <enclosure url="http://archive.org/download/StarWarsRadio_201707/Star%20Wars%2009.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D26B4B05-3011-46DA-88E0-2609F2D9845B</guid>
+        </item>
+        <item>
+            <title>Star Wars 10.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 16:05:09 -0500</pubDate>
+            <enclosure url="http://archive.org/download/StarWarsRadio_201707/Star%20Wars%2010.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">27411255-34CC-43E4-92FB-F5A8C6FF2C9B</guid>
+        </item>
+        <item>
+            <title>Star Wars 11.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 16:05:10 -0500</pubDate>
+            <enclosure url="http://archive.org/download/StarWarsRadio_201707/Star%20Wars%2011.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">92C1D9D8-2F94-472A-A30F-E52969F163DB</guid>
+        </item>
+        <item>
+            <title>Star Wars 12.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 16:05:11 -0500</pubDate>
+            <enclosure url="http://archive.org/download/StarWarsRadio_201707/Star%20Wars%2012.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">97DBDC9D-FFF8-4738-84F8-C118E1A22292</guid>
+        </item>
+        <item>
+            <title>Star Wars 13.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 16:05:12 -0500</pubDate>
+            <enclosure url="http://archive.org/download/StarWarsRadio_201707/Star%20Wars%2013.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">600E74CD-F330-4F21-8F3B-A6F353DB72EB</guid>
+        </item>
+        <item>
+            <title>Mindwarp 01.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 07:28:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/Mindwarp_201704/Mindwarp%2001.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A637874E-BD40-4714-B9A3-5A83315FEAFA</guid>
+        </item>
+        <item>
+            <title>Mindwarp 02.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 07:28:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/Mindwarp_201704/Mindwarp%2002.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">141549F5-A368-479D-A0DD-90DCD3E02EF0</guid>
+        </item>
+        <item>
+            <title>Mindwarp 03.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 07:28:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/Mindwarp_201704/Mindwarp%2003.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">0FDABF24-5E70-49CE-92F0-9E90FA4E3CCC</guid>
+        </item>
+        <item>
+            <title>Pride Prejudice 01.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:43:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PridePrejudice1950/Pride%20%26%20Prejudice%2001.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">09CEE87B-16CE-494E-9720-F8F6DFD0195F</guid>
+        </item>
+        <item>
+            <title>Pride  Prejudice 02.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:43:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PridePrejudice1950/Pride%20%26%20Prejudice%2002.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">90853618-C395-4744-83DD-2E7841647F39</guid>
+        </item>
+        <item>
+            <title>Pride  Prejudice 03.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:43:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PridePrejudice1950/Pride%20%26%20Prejudice%2003.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">5FD381AF-0F73-4859-AF30-6C375174B4B2</guid>
+        </item>
+        <item>
+            <title>Pride  Prejudice 04.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:43:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PridePrejudice1950/Pride%20%26%20Prejudice%2004.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">152DEBDC-8D90-4161-B9F9-18629995152E</guid>
+        </item>
+        <item>
+            <title>Pride  Prejudice 05.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:43:04 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PridePrejudice1950/Pride%20%26%20Prejudice%2005.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">230D74CD-FB74-4C28-AC48-134D529C0C70</guid>
+        </item>
+        <item>
+            <title>Pride  Prejudice 06.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:43:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PridePrejudice1950/Pride%20%26%20Prejudice%2006.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D54B2C7A-3F09-4D2C-BDB1-A690DE522FAD</guid>
+        </item>
+        <item>
+            <title>Pride  Prejudice 07.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:43:06 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PridePrejudice1950/Pride%20%26%20Prejudice%2007.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">76E0CECF-FB55-4937-927A-136B4A8BA1B7</guid>
+        </item>
+        <item>
+            <title>Pride  Prejudice 08.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:43:07 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PridePrejudice1950/Pride%20%26%20Prejudice%2008.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">70AE3AB9-6677-4384-9A33-18E34CAD7E4A</guid>
+        </item>
+        <item>
+            <title>Pride  Prejudice 09.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:43:08 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PridePrejudice1950/Pride%20%26%20Prejudice%2009.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">1CDCE5EA-D730-481F-AED5-C40EA0EC4B4D</guid>
+        </item>
+        <item>
+            <title>Pride  Prejudice 10.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:43:09 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PridePrejudice1950/Pride%20%26%20Prejudice%2010.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">DDB5FF10-9C93-4121-B84C-7AAF30A220C2</guid>
+        </item>
+        <item>
+            <title>Pride  Prejudice 11.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:43:10 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PridePrejudice1950/Pride%20%26%20Prejudice%2011.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">B4005015-3063-4059-86A5-23E244123144</guid>
+        </item>
+        <item>
+            <title>Pride  Prejudice 12.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:43:11 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PridePrejudice1950/Pride%20%26%20Prejudice%2012.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D4257514-18BF-4B05-A6DE-5387732E96EB</guid>
+        </item>
+        <item>
+            <title>Payment Deferred.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 08:01:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/PaymentDeferred/Payment%20Deferred.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">52320502-DD4B-4B4D-9A98-B5D4ADCBE1EB</guid>
+        </item>
+        <item>
+            <title>1 - Name of the Rose by Umberto Eco.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 18:52:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/NameOfTheRoseByUmbertoEco/1%20-%20Name%20of%20the%20Rose%20by%20Umberto%20Eco.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D4FAEA58-07F7-4296-924C-B756241748E4</guid>
+        </item>
+        <item>
+            <title>2 - Name of the Rose by Umberto Eco.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 18:52:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/NameOfTheRoseByUmbertoEco/2%20-%20Name%20of%20the%20Rose%20by%20Umberto%20Eco.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">9F1350BD-C21A-4762-826D-47365AAE30AC</guid>
+        </item>
+        <item>
+            <title>Earthsearch 201.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:14:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries2/Earthsearch%20201.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">BA8C9C28-CE81-4C0F-B834-313334391E52</guid>
+        </item>
+        <item>
+            <title>Earthsearch 202.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:14:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries2/Earthsearch%20202.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">008CF0FD-8B85-40E7-A33C-DF9438C1A42E</guid>
+        </item>
+        <item>
+            <title>Earthsearch 203.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:14:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries2/Earthsearch%20203.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">50713C27-98B1-4F13-97B2-5DD3D56B100D</guid>
+        </item>
+        <item>
+            <title>Earthsearch 204.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:14:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries2/Earthsearch%20204.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">9C523576-4E23-4B6B-809A-CC7738151AC0</guid>
+        </item>
+        <item>
+            <title>Earthsearch 205.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:14:04 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries2/Earthsearch%20205.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">777AB83E-225A-41DA-AEA2-54CA8C93F9BB</guid>
+        </item>
+        <item>
+            <title>Earthsearch 206.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:14:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries2/Earthsearch%20206.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">E424799D-538A-44AC-9309-75EE7B8C6A3D</guid>
+        </item>
+        <item>
+            <title>Earthsearch 207.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:14:06 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries2/Earthsearch%20207.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">688DBB14-6E5D-452C-AD84-67CDC37B1406</guid>
+        </item>
+        <item>
+            <title>Earthsearch 208.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:14:07 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries2/Earthsearch%20208.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">E6E01C3D-F600-49D9-9DB5-1912C6A74AF8</guid>
+        </item>
+        <item>
+            <title>Earthsearch 209.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:14:08 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries2/Earthsearch%20209.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">76D7C490-F8BB-4843-A643-0EE3E33DB326</guid>
+        </item>
+        <item>
+            <title>Earthsearch 210.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:14:09 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries2/Earthsearch%20210.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F80E526A-3E42-4ED8-876F-8A9E75BA5C68</guid>
+        </item>
+        <item>
+            <title>Earthsearch 101.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 19:25:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20101.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">CFAD151A-9D9B-4AB7-9E04-49BA5E0EC844</guid>
+        </item>
+        <item>
+            <title>Earthsearch 102.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 19:25:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20102.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">B700985F-3B2F-4C9A-A556-EE560190145E</guid>
+        </item>
+        <item>
+            <title>Earthsearch 103.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 19:25:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20103.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">BA9851E0-ECC2-4269-A78B-55A4D64C2167</guid>
+        </item>
+        <item>
+            <title>Earthsearch 104.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 19:25:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20104.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">4D4899D4-DF11-4D7B-8C32-4DA0F815E92C</guid>
+        </item>
+        <item>
+            <title>Earthsearch 105.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 19:25:04 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20105.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">DD07BA23-12D1-40F7-9627-6E69B6919927</guid>
+        </item>
+        <item>
+            <title>Earthsearch 106.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 19:25:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20106.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">227CF2A6-E3A6-49D8-B60A-D52BA724C8F0</guid>
+        </item>
+        <item>
+            <title>Earthsearch 107.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 19:25:06 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20107.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">88C49B72-43E1-49BD-BF0C-2EB1F41E7701</guid>
+        </item>
+        <item>
+            <title>Earthsearch 108.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 19:25:07 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20108.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F3140E0E-2A6A-4773-AB4D-4869DD1BBA0A</guid>
+        </item>
+        <item>
+            <title>Earthsearch 109.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 19:25:08 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20109.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">76576A6F-8061-4701-B332-75D3DACB3840</guid>
+        </item>
+        <item>
+            <title>Earthsearch 110.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 19:25:09 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20110.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">AD5E5E75-385C-491F-A877-559F6B5FCD5C</guid>
+        </item>
+        <item>
+            <title>Earthsearch.jpg</title>
+            <link>http://archive.org/download/EarthsearchSeries1/Earthsearch.jpg</link>
+            <pubDate>Sat, 01 Jun 2019 19:25:10 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch.jpg" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">E7FE1610-7FF3-4E86-914D-EA7E977A0EE7</guid>
+        </item>
+        <item>
+            <title>Slipstream - E1_ Into The Wolf's Lair.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:19:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/SlipstreamE1IntoTheWolfsLair/Slipstream%20-%20E1_%20Into%20The%20Wolf%27s%20Lair.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">7E4B1408-D6C5-4E5D-8C29-9B7CD81F96EE</guid>
+        </item>
+        <item>
+            <title>Slipstream - E2_ The Eagle's Nest.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:19:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/SlipstreamE1IntoTheWolfsLair/Slipstream%20-%20E2_%20The%20Eagle%27s%20Nest.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F97BA60C-F281-4975-A80F-45FFD3628D09</guid>
+        </item>
+        <item>
+            <title>Slipstream - E3_ The Tomorrow World.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:19:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/SlipstreamE1IntoTheWolfsLair/Slipstream%20-%20E3_%20The%20Tomorrow%20World.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">93C1A14A-34F3-4D34-94B3-0B795DFADBC8</guid>
+        </item>
+        <item>
+            <title>Slipstream - E4_ This Island Earth.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:19:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/SlipstreamE1IntoTheWolfsLair/Slipstream%20-%20E4_%20This%20Island%20Earth.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">FD792EBD-865A-443D-9B3A-EC328AD954B4</guid>
+        </item>
+        <item>
+            <title>Slipstream - E5_ Fight For The Future.mp3</title>
+            <pubDate>Sat, 01 Jun 2019 04:19:04 -0500</pubDate>
+            <enclosure url="http://archive.org/download/SlipstreamE1IntoTheWolfsLair/Slipstream%20-%20E5_%20Fight%20For%20The%20Future.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">CCF8A73D-02B2-4EAA-9820-3ACCC8DEF374</guid>
+        </item>
+        <item>
+            <title>The Machine Stops</title>
+            <link>http://archive.org/download/MachineStopsThe/Machine%20Stops%2C%20The.mp3</link>
+            <pubDate>Mon, 27 May 2019 14:25:20 -0500</pubDate>
+            <enclosure url="http://archive.org/download/MachineStopsThe/Machine%20Stops%2C%20The.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">1988488B-FE71-4A75-92D2-50D8E7D8D601</guid>
+        </item>
+        <item>
+            <title>Wall of Darkness</title>
+            <link>http://archive.org/download/WallOfDarkness/Wall%20of%20Darkness.mp3</link>
+            <pubDate>Mon, 27 May 2019 14:22:09 -0500</pubDate>
+            <enclosure url="http://archive.org/download/WallOfDarkness/Wall%20of%20Darkness.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">85EA6A9B-8510-4608-AAF0-27DD8B9D4578</guid>
+        </item>
+        <item>
+            <title>Tunnel Under the World</title>
+            <link>http://archive.org/details/TheTunnelUnderTheWorld</link>
+            <pubDate>Wed, 17 Apr 2019 21:18:52 -0500</pubDate>
+            <enclosure url="http://archive.org/download/TheTunnelUnderTheWorld/The%20Tunnel%20Under%20The%20World.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">77BF42E8-76E8-4879-9DA4-E7F214B3D168</guid>
+        </item>
+        <item>
+            <title>His Dark Materials 01</title>
+            <link>http://archive.org/details/HisDarkMaterialsTrilogy</link>
+            <pubDate>Wed, 17 Apr 2019 21:20:52 -0500</pubDate>
+            <enclosure url="http://archive.org/download/HisDarkMaterialsTrilogy/His%20Dark%20Materials%2001.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">EED3B297-AE2A-4E2F-B8DA-22E3F7C72E32</guid>
+        </item>
+        <item>
+            <title>His Dark Materials 02</title>
+            <link>http://archive.org/details/HisDarkMaterialsTrilogy</link>
+            <pubDate>Wed, 17 Apr 2019 21:22:52 -0500</pubDate>
+            <enclosure url="http://archive.org/download/HisDarkMaterialsTrilogy/His%20Dark%20Materials%2002.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">00C104CE-C55B-443C-8854-8F3E5A30F614</guid>
+        </item>
+        <item>
+            <title>His Dark Materials 03</title>
+            <link>http://archive.org/details/HisDarkMaterialsTrilogy</link>
+            <pubDate>Wed, 17 Apr 2019 21:24:52 -0500</pubDate>
+            <enclosure url="http://archive.org/download/HisDarkMaterialsTrilogy/His%20Dark%20Materials%2003.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8DB6A172-61A5-405E-8087-BA505F9B8E6B</guid>
+        </item>
+        <item>
+            <title>Earthsearch Series 1 - 1</title>
+            <link>http://archive.org/details/EarthsearchSeries1</link>
+            <pubDate>Wed, 17 Apr 2019 21:26:52 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20101.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">560CA9F2-3AA0-429D-9207-692CE40C235F</guid>
+        </item>
+        <item>
+            <title>Earthsearch Series 1 - 2</title>
+            <link>http://archive.org/details/EarthsearchSeries1</link>
+            <pubDate>Wed, 17 Apr 2019 21:30:52 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20102.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">06921629-D8AA-4A86-9F22-537A63DEBAC0</guid>
+        </item>
+        <item>
+            <title>Earthsearch Series 1 - 3</title>
+            <link>http://archive.org/details/EarthsearchSeries1</link>
+            <pubDate>Wed, 17 Apr 2019 21:30:54 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20103.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">06921629-D8AA-4A86-9F22-537A63DEBAC03</guid>
+        </item>
+        <item>
+            <title>Earthsearch Series 1 - 4</title>
+            <link>http://archive.org/details/EarthsearchSeries1</link>
+            <pubDate>Wed, 17 Apr 2019 21:30:55 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20104.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">06921629-D8AA-4A86-9F22-537A63DEBAC04</guid>
+        </item>
+        <item>
+            <title>Earthsearch Series 1 - 5</title>
+            <link>http://archive.org/details/EarthsearchSeries1</link>
+            <pubDate>Wed, 17 Apr 2019 21:31:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20105.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">06921629-D8AA-4A86-9F22-537A63DEBAC056</guid>
+        </item>
+        <item>
+            <title>Earthsearch Series 1 - 6</title>
+            <link>http://archive.org/details/EarthsearchSeries1</link>
+            <pubDate>Wed, 17 Apr 2019 21:31:06 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20106.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">06921629-D8AA-4A86-9F22-537A63DEBAC05</guid>
+        </item>
+        <item>
+            <title>Earthsearch Series 1 - 7</title>
+            <link>http://archive.org/details/EarthsearchSeries1</link>
+            <pubDate>Wed, 17 Apr 2019 21:31:07 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20107.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">06921629-D8AA-4A86-9F22-537A63DEBAC07</guid>
+        </item>
+        <item>
+            <title>Earthsearch Series 1 - 8</title>
+            <link>http://archive.org/details/EarthsearchSeries1</link>
+            <pubDate>Wed, 17 Apr 2019 21:31:08 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20108.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">06921629-D8AA-4A86-9F22-537A63DEBAC08</guid>
+        </item>
+        <item>
+            <title>Earthsearch Series 1 - 9</title>
+            <link>http://archive.org/details/EarthsearchSeries1</link>
+            <pubDate>Wed, 17 Apr 2019 21:31:09 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20109.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">06921629-D8AA-4A86-9F22-537A63DEBAC059</guid>
+        </item>
+        <item>
+            <title>Earthsearch Series 1 - 10</title>
+            <link>http://archive.org/details/EarthsearchSeries1</link>
+            <pubDate>Wed, 17 Apr 2019 21:31:10 -0500</pubDate>
+            <enclosure url="http://archive.org/download/EarthsearchSeries1/Earthsearch%20110.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">06921629-D8AA-4A86-9F22-537A63DEBAC0510</guid>
+        </item>
+    </channel>
+</rss>
