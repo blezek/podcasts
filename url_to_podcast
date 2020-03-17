@@ -62,9 +62,9 @@ while read url; do
   printf "<!-- %s -->\n" "$url"
   printf "<item>\n"
   printf "<title>%s</title>\n" "$title"
-  printf "<link>%s</link>\n" "$url"
+  printf "<link>%s</link>\n" "${url/https/http}"
   printf "<pubDate>%s %02d:%02d:%02d %s</pubDate>\n" "$WEEKDAY, $DATE $MONTH $YEAR" $HOUR $MINUTE "$counter" $TZ
-  printf '<enclosure url="%s" length="1" type="audio/mpeg" />\n' "$url"
+  printf '<enclosure url="%s" length="1" type="audio/mpeg" />\n' "${url/https/http}"
   printf '<guid isPermaLink="false">%s</guid>\n' $(uuidgen) 
   printf "</item>\n"
   printf "\n"
