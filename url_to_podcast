@@ -51,15 +51,15 @@ format_entry() {
   
 }
 
-log running spider on "$url"
+# log running spider on "$url"
 
 wget  -r --spider -l1 -A mp3 "$url" 2>&1 | grep '^--' | awk '{print $3}' | grep -i ".mp3" | grep "https://archive.org" | \
 while read url; do
   fn=${url##*/}
   title=$(urldecode "$fn")
 
-  log reading $title from $url 
-  
+  # log reading $title from $url 
+  printf "<!-- %s -->\n" "$url"
   printf "<item>\n"
   printf "<title>%s</title>\n" "$title"
   printf "<link>%s</link>\n" "$url"
