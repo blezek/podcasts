@@ -7,16 +7,20 @@
         <generator>Feeder 2.5.8(1906); Mac OS X Version 10.15.3 (Build 19D76) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Mon, 16 Mar 2020 21:40:00 -0500</pubDate>
-        <lastBuildDate>Mon, 16 Mar 2020 21:40:00 -0500</lastBuildDate>
-        <atom:link href="http://portfolio.parker.blezek.com.s3.amazonaws.com/bond.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 18 Mar 2020 20:35:50 -0500</pubDate>
+        <lastBuildDate>Wed, 18 Mar 2020 20:35:50 -0500</lastBuildDate>
+        <atom:link href="http://blezek.github.io/podcasts/bond.xml/bond.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>BBC Radio</itunes:author>
+        <itunes:image href="http://archive.org/download/FiftyYearsOfBondJamesBond/Fifty%20Years%20of%20Bond.jpg"/>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:owner>
             <itunes:name>Daniel Blezek</itunes:name>
             <itunes:email>daniel.blezek@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:block>no</itunes:block>
+        <itunes:category text="Arts">
+            <itunes:category text="Literature"/>
+        </itunes:category>
         <item>
             <title>Thunderball --James Bond.mp3</title>
             <pubDate>Mon, 02 Sep 2019 19:23:00 -0500</pubDate>
