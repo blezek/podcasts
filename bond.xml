@@ -4,11 +4,11 @@
         <title>Bond</title>
         <link>https://blezek.github.io/podcasts/bond.xml</link>
         <description>Bond Audio books</description>
-        <generator>Feeder 2.5.8(1906); Mac OS X Version 10.15.3 (Build 19D76) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.8(1906); Mac OS X Version 10.15.4 (Build 19E287) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Wed, 18 Mar 2020 20:35:50 -0500</pubDate>
-        <lastBuildDate>Wed, 18 Mar 2020 20:35:50 -0500</lastBuildDate>
+        <pubDate>Wed, 06 May 2020 21:27:56 -0500</pubDate>
+        <lastBuildDate>Wed, 06 May 2020 21:27:56 -0500</lastBuildDate>
         <atom:link href="http://blezek.github.io/podcasts/bond.xml/bond.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>BBC Radio</itunes:author>
         <itunes:image href="http://archive.org/download/FiftyYearsOfBondJamesBond/Fifty%20Years%20of%20Bond.jpg"/>
@@ -21,6 +21,46 @@
         <itunes:category text="Arts">
             <itunes:category text="Literature"/>
         </itunes:category>
+        <item>
+            <title>Casino Royale.mp3</title>
+            <link>http://archive.org/download/CasinoRoyaleByIanFlemingReading/Casino%20Royale.mp3</link>
+            <pubDate>Wed, 06 May 2020 03:16:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/CasinoRoyaleByIanFlemingReading/Casino%20Royale.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F2B817DD-4C66-4844-AC07-A6A83244654F</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>From Russia with Love 21-07-12.mp3</title>
+            <link>http://archive.org/download/FromRussiaWithLove210712/From%20Russia%20with%20Love%2021-07-12.mp3</link>
+            <pubDate>Wed, 06 May 2020 12:21:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/FromRussiaWithLove210712/From%20Russia%20with%20Love%2021-07-12.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">55ACDDD7-817B-4242-AC41-F919F507CC83</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Dr No.mp3</title>
+            <link>http://archive.org/download/DrNoJamesBondIanFleming/Dr%20No.mp3</link>
+            <pubDate>Wed, 06 May 2020 18:26:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/DrNoJamesBondIanFleming/Dr%20No.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">2D0E5F78-0B90-427E-AF65-968FDB23B4C1</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>You Only Live Twice.mp3</title>
+            <link>http://archive.org/download/YouOnlyLiveTwice_201801/You%20Only%20Live%20Twice.mp3</link>
+            <pubDate>Wed, 06 May 2020 00:08:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/YouOnlyLiveTwice_201801/You%20Only%20Live%20Twice.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">DB0E2D4A-425B-44AA-8B3D-2B979E65ECD4</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>The Living Daylights.mp3</title>
+            <link>http://archive.org/download/TheLivingDaylights/The%20Living%20Daylights.mp3</link>
+            <pubDate>Wed, 06 May 2020 19:02:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/TheLivingDaylights/The%20Living%20Daylights.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">C3033409-AAB1-4403-B05F-4273E7B54065</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
         <item>
             <title>Thunderball --James Bond.mp3</title>
             <pubDate>Mon, 02 Sep 2019 19:23:00 -0500</pubDate>
