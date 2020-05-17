@@ -7,8 +7,8 @@
         <generator>Feeder 2.5.8(1906); Mac OS X Version 10.15.4 (Build 19E287) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Sun, 17 May 2020 18:17:07 -0500</pubDate>
-        <lastBuildDate>Sun, 17 May 2020 18:17:07 -0500</lastBuildDate>
+        <pubDate>Sun, 17 May 2020 18:19:13 -0500</pubDate>
+        <lastBuildDate>Sun, 17 May 2020 18:19:13 -0500</lastBuildDate>
         <atom:link href="http://blezek.github.io/podcasts/bond.xml/bond.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>BBC Radio</itunes:author>
         <itunes:image href="http://archive.org/download/FiftyYearsOfBondJamesBond/Fifty%20Years%20of%20Bond.jpg"/>
@@ -21,6 +21,78 @@
         <itunes:category text="Arts">
             <itunes:category text="Literature"/>
         </itunes:category>
+        <item>
+            <title>The Andromeda Strain  01.mp3</title>
+            <link>http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2001.mp3</link>
+            <pubDate>Sun, 17 May 2020 08:41:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2001.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">63592357-807C-4471-A705-9EA11BE0ACCC</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>The Andromeda Strain  02.mp3</title>
+            <link>http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2002.mp3</link>
+            <pubDate>Sun, 17 May 2020 08:41:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2002.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">5C77C63D-F9FC-4982-B3BB-4E3B1AF2D9B0</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>The Andromeda Strain  03.mp3</title>
+            <link>http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2003.mp3</link>
+            <pubDate>Sun, 17 May 2020 08:41:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2003.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">95CBD09B-6693-4019-81F9-81C89DEC6B73</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>The Andromeda Strain  04.mp3</title>
+            <link>http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2004.mp3</link>
+            <pubDate>Sun, 17 May 2020 08:41:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2004.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">22274964-DC46-4AE9-A98F-55E5AB044D8D</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>The Andromeda Strain  05.mp3</title>
+            <link>http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2005.mp3</link>
+            <pubDate>Sun, 17 May 2020 08:41:04 -0500</pubDate>
+            <enclosure url="http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2005.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">119CAAC6-13D7-4F6F-A5E5-9FF4AF059131</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>The Andromeda Strain  06.mp3</title>
+            <link>http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2006.mp3</link>
+            <pubDate>Sun, 17 May 2020 08:41:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2006.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">289E3596-8229-4411-AA39-F1F30469C0DF</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>The Andromeda Strain  07.mp3</title>
+            <link>http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2007.mp3</link>
+            <pubDate>Sun, 17 May 2020 08:41:06 -0500</pubDate>
+            <enclosure url="http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2007.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">7ABD74B1-BF45-4E69-99AB-69094487C854</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>The Andromeda Strain  08.mp3</title>
+            <link>http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2008.mp3</link>
+            <pubDate>Sun, 17 May 2020 08:41:07 -0500</pubDate>
+            <enclosure url="http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2008.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D17C9BA9-147D-417B-ADEE-9AE4B6E6DCB4</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>The Andromeda Strain  09.mp3</title>
+            <link>http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2009.mp3</link>
+            <pubDate>Sun, 17 May 2020 08:41:08 -0500</pubDate>
+            <enclosure url="http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2009.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">0097E7C4-D769-479B-83DA-39B0076CF875</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
         <item>
             <title>Through the Looking Glass.mp3</title>
             <link>http://archive.org/download/LewisCarroll-AliceThroughTheLookingGlass/Through%20the%20Looking%20Glass.mp3</link>
