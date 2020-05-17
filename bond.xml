@@ -7,8 +7,8 @@
         <generator>Feeder 2.5.8(1906); Mac OS X Version 10.15.4 (Build 19E287) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Wed, 06 May 2020 21:27:56 -0500</pubDate>
-        <lastBuildDate>Wed, 06 May 2020 21:27:56 -0500</lastBuildDate>
+        <pubDate>Sun, 17 May 2020 18:17:07 -0500</pubDate>
+        <lastBuildDate>Sun, 17 May 2020 18:17:07 -0500</lastBuildDate>
         <atom:link href="http://blezek.github.io/podcasts/bond.xml/bond.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>BBC Radio</itunes:author>
         <itunes:image href="http://archive.org/download/FiftyYearsOfBondJamesBond/Fifty%20Years%20of%20Bond.jpg"/>
@@ -21,6 +21,118 @@
         <itunes:category text="Arts">
             <itunes:category text="Literature"/>
         </itunes:category>
+        <item>
+            <title>Through the Looking Glass.mp3</title>
+            <link>http://archive.org/download/LewisCarroll-AliceThroughTheLookingGlass/Through%20the%20Looking%20Glass.mp3</link>
+            <pubDate>Sun, 17 May 2020 08:08:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/LewisCarroll-AliceThroughTheLookingGlass/Through%20the%20Looking%20Glass.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">90CD2E0F-A7F3-40BB-B43A-07F5923319B3</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>aliceinwonderland_00_gerstenberg.mp3</title>
+            <link>http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_00_gerstenberg.mp3</link>
+            <pubDate>Sun, 17 May 2020 04:44:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_00_gerstenberg.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">1D672F6A-2A90-48B2-8297-E71FCA96F18A</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>aliceinwonderland_00_gerstenberg_64kb.mp3</title>
+            <link>http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_00_gerstenberg_64kb.mp3</link>
+            <pubDate>Sun, 17 May 2020 04:44:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_00_gerstenberg_64kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">1B33BFB4-9F3C-4E8F-B2F1-89B7417D9DCD</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>aliceinwonderland_00_gerstenberg_128kb.mp3</title>
+            <link>http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_00_gerstenberg_128kb.mp3</link>
+            <pubDate>Sun, 17 May 2020 04:44:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_00_gerstenberg_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F4655634-C955-4C54-AF99-1930025AD7D6</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>aliceinwonderland_01_gerstenberg.mp3</title>
+            <link>http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_01_gerstenberg.mp3</link>
+            <pubDate>Sun, 17 May 2020 04:44:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_01_gerstenberg.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">AB9219F9-2000-4793-B300-35978717FE37</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>aliceinwonderland_01_gerstenberg_64kb.mp3</title>
+            <link>http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_01_gerstenberg_64kb.mp3</link>
+            <pubDate>Sun, 17 May 2020 04:44:04 -0500</pubDate>
+            <enclosure url="http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_01_gerstenberg_64kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D3A0BDE4-CC18-468C-96AF-E85231329857</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>aliceinwonderland_01_gerstenberg_128kb.mp3</title>
+            <link>http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_01_gerstenberg_128kb.mp3</link>
+            <pubDate>Sun, 17 May 2020 04:44:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_01_gerstenberg_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F7ECEFC4-CD0F-47D3-A9B7-B3A8777E3BDA</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>aliceinwonderland_02_gerstenberg.mp3</title>
+            <link>http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_02_gerstenberg.mp3</link>
+            <pubDate>Sun, 17 May 2020 04:44:06 -0500</pubDate>
+            <enclosure url="http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_02_gerstenberg.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A06D45B4-B7FF-444F-9DD3-B51DC9489A01</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>aliceinwonderland_02_gerstenberg_64kb.mp3</title>
+            <link>http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_02_gerstenberg_64kb.mp3</link>
+            <pubDate>Sun, 17 May 2020 04:44:07 -0500</pubDate>
+            <enclosure url="http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_02_gerstenberg_64kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">23ABB68D-85FE-43A7-8A75-378BB8DBFC3F</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>aliceinwonderland_02_gerstenberg_128kb.mp3</title>
+            <link>http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_02_gerstenberg_128kb.mp3</link>
+            <pubDate>Sun, 17 May 2020 04:44:08 -0500</pubDate>
+            <enclosure url="http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_02_gerstenberg_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">66BCCCFD-1BB6-4D9F-ACCB-28BECC9E2967</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>aliceinwonderland_03_gerstenberg.mp3</title>
+            <link>http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_03_gerstenberg.mp3</link>
+            <pubDate>Sun, 17 May 2020 04:44:09 -0500</pubDate>
+            <enclosure url="http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_03_gerstenberg.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">10AEAB69-79B7-4951-9405-4D59D994FDE9</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>aliceinwonderland_03_gerstenberg_64kb.mp3</title>
+            <link>http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_03_gerstenberg_64kb.mp3</link>
+            <pubDate>Sun, 17 May 2020 04:44:10 -0500</pubDate>
+            <enclosure url="http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_03_gerstenberg_64kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">257EFE59-C426-410F-ABCC-D323AA095DCF</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>aliceinwonderland_03_gerstenberg_128kb.mp3</title>
+            <link>http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_03_gerstenberg_128kb.mp3</link>
+            <pubDate>Sun, 17 May 2020 04:44:11 -0500</pubDate>
+            <enclosure url="http://archive.org/download/aliceinwonderland_drama_1310_librivox/aliceinwonderland_03_gerstenberg_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">3A1AC620-CA09-44DC-A821-29F9734D1041</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Alice_in_Wonderland_-_read_by_Cory_Doctorow.mp3</title>
+            <link>http://archive.org/download/AliceInWonderlandReadByCoryDoctorow_201703/Alice_in_Wonderland_-_read_by_Cory_Doctorow.mp3</link>
+            <pubDate>Sun, 17 May 2020 17:48:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/AliceInWonderlandReadByCoryDoctorow_201703/Alice_in_Wonderland_-_read_by_Cory_Doctorow.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">24720E49-B4D8-4FBC-B303-D1E06BEDDADB</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
         <item>
             <title>Casino Royale.mp3</title>
             <link>http://archive.org/download/CasinoRoyaleByIanFlemingReading/Casino%20Royale.mp3</link>
