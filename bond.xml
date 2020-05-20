@@ -7,8 +7,8 @@
         <generator>Feeder 2.5.8(1906); Mac OS X Version 10.15.4 (Build 19E287) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Sun, 17 May 2020 18:19:13 -0500</pubDate>
-        <lastBuildDate>Sun, 17 May 2020 18:19:13 -0500</lastBuildDate>
+        <pubDate>Tue, 19 May 2020 20:43:01 -0500</pubDate>
+        <lastBuildDate>Tue, 19 May 2020 20:43:01 -0500</lastBuildDate>
         <atom:link href="http://blezek.github.io/podcasts/bond.xml/bond.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>BBC Radio</itunes:author>
         <itunes:image href="http://archive.org/download/FiftyYearsOfBondJamesBond/Fifty%20Years%20of%20Bond.jpg"/>
@@ -21,6 +21,134 @@
         <itunes:category text="Arts">
             <itunes:category text="Literature"/>
         </itunes:category>
+        <item>
+            <title>Sphere  01.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2001.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2001.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">7563EC33-591E-4728-AF95-C5D35D063181</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  02.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2002.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2002.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">07B9AAAE-AA64-4526-A872-14BFD37847BA</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  03.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2003.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2003.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">60B2211E-5647-4DE6-BC4F-9A551CFD4B6B</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  04.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2004.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2004.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">089C7AF6-50AB-4DF3-BE16-CACBE0325EB3</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  05.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2005.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:04 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2005.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">C911DA0A-AC85-4B6A-A0F8-AA4A4CCE76C9</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  06.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2006.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2006.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">52847CB1-F23A-4624-9611-8300A63857A5</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  07.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2007.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:06 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2007.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8801B8ED-89EA-4C33-A9B4-4C3D15A76CC8</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  08.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2008.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:07 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2008.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">CAAD3ED3-B827-42C0-8F50-C9F18A59B11B</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  09.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2009.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:08 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2009.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">E9779832-D954-4FD1-84B4-F8B08238E0DE</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  10.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2010.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:09 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2010.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8D341D62-B62E-49EE-817F-DBD49E4DB98F</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  11.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2011.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:10 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2011.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">0F3EBD1E-DE14-40E8-8D38-D09F992CDAB7</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  12.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2012.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:11 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2012.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">39890A1A-691C-45F4-95CE-65ABA2F71860</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  13.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2013.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:12 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2013.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D7F78099-8428-49BF-B269-1BABA0113988</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  14.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2014.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:13 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2014.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">3A5A1D09-E2FD-4087-BCCC-937C4FE4CAAE</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  15.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2015.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:14 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2015.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">538C7466-92CF-4F52-8462-B318668562B7</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Sphere  16.mp3</title>
+            <link>http://archive.org/download/sphere01/Sphere%20%2016.mp3</link>
+            <pubDate>Tue, 19 May 2020 02:43:15 -0500</pubDate>
+            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2016.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">38C63D35-4FCA-45F1-A68E-1657C5D3EE2D</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
         <item>
             <title>The Andromeda Strain  01.mp3</title>
             <link>http://archive.org/download/theandromedastrain01/The%20Andromeda%20Strain%20%2001.mp3</link>
