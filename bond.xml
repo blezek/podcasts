@@ -4,11 +4,11 @@
         <title>Bond</title>
         <link>https://blezek.github.io/podcasts/bond.xml</link>
         <description>Bond Audio books</description>
-        <generator>Feeder 2.5.8(1906); Mac OS X Version 10.15.4 (Build 19E287) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.8(1906); Mac OS X Version 10.15.5 (Build 19F101) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Tue, 19 May 2020 20:43:01 -0500</pubDate>
-        <lastBuildDate>Tue, 19 May 2020 20:43:01 -0500</lastBuildDate>
+        <pubDate>Tue, 30 Jun 2020 19:34:02 -0500</pubDate>
+        <lastBuildDate>Tue, 30 Jun 2020 19:34:02 -0500</lastBuildDate>
         <atom:link href="http://blezek.github.io/podcasts/bond.xml/bond.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>BBC Radio</itunes:author>
         <itunes:image href="http://archive.org/download/FiftyYearsOfBondJamesBond/Fifty%20Years%20of%20Bond.jpg"/>
@@ -22,131 +22,875 @@
             <itunes:category text="Literature"/>
         </itunes:category>
         <item>
-            <title>Sphere  01.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2001.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:00 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2001.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">7563EC33-591E-4728-AF95-C5D35D063181</guid>
+            <title>paradiselost_00_milton_128kb.mp3</title>
+            <link>http://archive.org/download/paradiselost_1411_librivox/paradiselost_00_milton_128kb.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 18:40:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/paradiselost_1411_librivox/paradiselost_00_milton_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">5C0FCF7F-F6D1-4EA0-8442-899A0068258B</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  02.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2002.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:01 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2002.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">07B9AAAE-AA64-4526-A872-14BFD37847BA</guid>
+            <title>paradiselost_01_milton_128kb.mp3</title>
+            <link>http://archive.org/download/paradiselost_1411_librivox/paradiselost_01_milton_128kb.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 18:40:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/paradiselost_1411_librivox/paradiselost_01_milton_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">C1E7A9CE-513F-4EA7-8AFB-8F8B4647BDD8</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  03.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2003.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:02 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2003.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">60B2211E-5647-4DE6-BC4F-9A551CFD4B6B</guid>
+            <title>paradiselost_02_milton_128kb.mp3</title>
+            <link>http://archive.org/download/paradiselost_1411_librivox/paradiselost_02_milton_128kb.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 18:40:08 -0500</pubDate>
+            <enclosure url="http://archive.org/download/paradiselost_1411_librivox/paradiselost_02_milton_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">BF8FB36F-80DF-499A-A7AF-EB0C3E171587</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  04.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2004.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:03 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2004.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">089C7AF6-50AB-4DF3-BE16-CACBE0325EB3</guid>
+            <title>paradiselost_03_milton_128kb.mp3</title>
+            <link>http://archive.org/download/paradiselost_1411_librivox/paradiselost_03_milton_128kb.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 18:40:11 -0500</pubDate>
+            <enclosure url="http://archive.org/download/paradiselost_1411_librivox/paradiselost_03_milton_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">40DE55F5-CF52-48C0-A3AF-C9EE90DF4065</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  05.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2005.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:04 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2005.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">C911DA0A-AC85-4B6A-A0F8-AA4A4CCE76C9</guid>
+            <title>paradiselost_04_milton_128kb.mp3</title>
+            <link>http://archive.org/download/paradiselost_1411_librivox/paradiselost_04_milton_128kb.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 18:40:14 -0500</pubDate>
+            <enclosure url="http://archive.org/download/paradiselost_1411_librivox/paradiselost_04_milton_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8706CB71-B5B7-4A76-9BB7-8F9924D3772B</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  06.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2006.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:05 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2006.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">52847CB1-F23A-4624-9611-8300A63857A5</guid>
+            <title>paradiselost_05_milton_128kb.mp3</title>
+            <link>http://archive.org/download/paradiselost_1411_librivox/paradiselost_05_milton_128kb.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 18:40:17 -0500</pubDate>
+            <enclosure url="http://archive.org/download/paradiselost_1411_librivox/paradiselost_05_milton_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">0217FF69-6E17-4D6C-8FD7-CA5C66A75617</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  07.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2007.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:06 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2007.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">8801B8ED-89EA-4C33-A9B4-4C3D15A76CC8</guid>
+            <title>paradiselost_06_milton_128kb.mp3</title>
+            <link>http://archive.org/download/paradiselost_1411_librivox/paradiselost_06_milton_128kb.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 18:40:20 -0500</pubDate>
+            <enclosure url="http://archive.org/download/paradiselost_1411_librivox/paradiselost_06_milton_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F9EFECE9-1E5F-46A7-82BB-1A96DED696CD</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  08.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2008.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:07 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2008.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">CAAD3ED3-B827-42C0-8F50-C9F18A59B11B</guid>
+            <title>paradiselost_07_milton_128kb.mp3</title>
+            <link>http://archive.org/download/paradiselost_1411_librivox/paradiselost_07_milton_128kb.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 18:40:23 -0500</pubDate>
+            <enclosure url="http://archive.org/download/paradiselost_1411_librivox/paradiselost_07_milton_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">5264F6A7-17B6-410C-A93C-7CE7797DA5C9</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  09.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2009.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:08 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2009.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">E9779832-D954-4FD1-84B4-F8B08238E0DE</guid>
+            <title>paradiselost_08_milton_128kb.mp3</title>
+            <link>http://archive.org/download/paradiselost_1411_librivox/paradiselost_08_milton_128kb.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 18:40:26 -0500</pubDate>
+            <enclosure url="http://archive.org/download/paradiselost_1411_librivox/paradiselost_08_milton_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">E7C1E09A-41F5-48BC-BB01-7C9622B1FEEE</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  10.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2010.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:09 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2010.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">8D341D62-B62E-49EE-817F-DBD49E4DB98F</guid>
+            <title>paradiselost_09_milton_128kb.mp3</title>
+            <link>http://archive.org/download/paradiselost_1411_librivox/paradiselost_09_milton_128kb.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 18:40:29 -0500</pubDate>
+            <enclosure url="http://archive.org/download/paradiselost_1411_librivox/paradiselost_09_milton_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">535DC941-2817-430D-9807-07584A2930E8</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  11.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2011.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:10 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2011.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">0F3EBD1E-DE14-40E8-8D38-D09F992CDAB7</guid>
+            <title>paradiselost_10_milton_128kb.mp3</title>
+            <link>http://archive.org/download/paradiselost_1411_librivox/paradiselost_10_milton_128kb.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 18:40:32 -0500</pubDate>
+            <enclosure url="http://archive.org/download/paradiselost_1411_librivox/paradiselost_10_milton_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">368F3647-4FAF-4A4C-A124-D2233CFD3C17</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  12.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2012.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:11 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2012.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">39890A1A-691C-45F4-95CE-65ABA2F71860</guid>
+            <title>paradiselost_11_milton_128kb.mp3</title>
+            <link>http://archive.org/download/paradiselost_1411_librivox/paradiselost_11_milton_128kb.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 18:40:35 -0500</pubDate>
+            <enclosure url="http://archive.org/download/paradiselost_1411_librivox/paradiselost_11_milton_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A75CE0C6-EC5C-49C5-A559-0221D5929341</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  13.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2013.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:12 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2013.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">D7F78099-8428-49BF-B269-1BABA0113988</guid>
+            <title>paradiselost_12_milton_128kb.mp3</title>
+            <link>http://archive.org/download/paradiselost_1411_librivox/paradiselost_12_milton_128kb.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 18:40:38 -0500</pubDate>
+            <enclosure url="http://archive.org/download/paradiselost_1411_librivox/paradiselost_12_milton_128kb.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">C3F147B6-393F-423D-8140-D2D367E19F5A</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  14.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2014.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:13 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2014.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">3A5A1D09-E2FD-4087-BCCC-937C4FE4CAAE</guid>
+            <title>princessofmars_00_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_00_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_00_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">59EBB4C4-8C29-4F6C-BB61-B6556718214E</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  15.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2015.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:14 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2015.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">538C7466-92CF-4F52-8462-B318668562B7</guid>
+            <title>princessofmars_01_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_01_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_01_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">B6BF5C17-D67D-453A-8CF1-0B42C2285157</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Sphere  16.mp3</title>
-            <link>http://archive.org/download/sphere01/Sphere%20%2016.mp3</link>
-            <pubDate>Tue, 19 May 2020 02:43:15 -0500</pubDate>
-            <enclosure url="http://archive.org/download/sphere01/Sphere%20%2016.mp3" length="1" type="audio/mpeg"/>
-            <guid isPermaLink="false">38C63D35-4FCA-45F1-A68E-1657C5D3EE2D</guid>
+            <title>princessofmars_02_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_02_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_02_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8093A3C5-7CFF-4EA4-AD66-22CFD9C2FA27</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_03_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_03_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:07 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_03_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A0DD75B6-CDE9-4009-A920-13B941EB26EB</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_04_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_04_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:09 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_04_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">75C2FEC1-E267-4634-9BF4-8B4F754925B8</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_05_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_05_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:11 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_05_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">6B745556-B705-4B28-A1A2-93B95AE3E398</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_06_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_06_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:13 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_06_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">EAF980B2-4F9E-4202-BD0E-BFB89FC20BB4</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_07_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_07_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:15 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_07_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">7F094F9C-5227-4DAD-B30B-AD05D0476ACC</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_08_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_08_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:17 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_08_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">40B3DB8D-869F-4FCA-A76C-4B4FDDA4F15E</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_09_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_09_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:19 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_09_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">72E8E7C3-A27A-41A6-834A-F1E1B41D63BE</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_10_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_10_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:21 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_10_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">1F34455B-9C90-4CA7-B6B9-F225EAB2BA35</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_11_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_11_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:23 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_11_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">954BE3E9-BB16-48C8-81F7-A5003102CB6E</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_12_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_12_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:25 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_12_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">599D1411-79C9-4968-A08F-FD12E02933F2</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_13_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_13_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:27 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_13_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">B096F6E1-D68A-4020-A040-B5CE340DF538</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_14_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_14_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:29 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_14_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">C0223B6E-4CE6-4D48-81E8-4F47531BC5D0</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_15_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_15_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:31 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_15_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">7E39E9F8-875A-4903-B4B3-32784C64A084</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_16_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_16_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:33 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_16_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">BE2426AF-95A0-4E94-B5C0-930FFE80AE76</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_17_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_17_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:35 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_17_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">5BB5ED3F-8B5F-456F-ACB1-8A4A3FEB7847</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_18_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_18_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:37 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_18_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">122CEFC2-4F01-4FE1-AECD-02844FE9157E</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_19_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_19_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:39 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_19_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">93022F48-DCBE-4E99-B9CC-418AD10B27DD</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_20_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_20_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:41 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_20_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">1246408C-CEEF-470C-893E-3DFA3E8431EE</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_21_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_21_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:43 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_21_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">6B56EAD7-61D1-426F-B953-E8F8EE790930</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_22_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_22_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:45 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_22_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">3FA66420-20AC-4A70-B186-6711C9F2E8A8</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_23_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_23_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:47 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_23_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">1E2F448D-A09F-48F5-9099-A2AA62B427B0</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_24_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_24_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:49 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_24_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">AC5D3C04-BE51-405A-875D-5ADC0A4F0CF8</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_25_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_25_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:51 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_25_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">EA2CD108-547B-4886-8482-750CB8EB2925</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_26_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_26_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:53 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_26_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">075D3720-319C-4D14-B817-28BF8E92E157</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_27_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_27_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:55 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_27_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8632C7E8-E1E8-4174-A4AA-333AEAF7226C</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>princessofmars_28_burroughs.mp3</title>
+            <link>http://archive.org/download/princess_mars_tc_librivox/princessofmars_28_burroughs.mp3</link>
+            <pubDate>Tue, 30 Jun 2020 13:34:57 -0500</pubDate>
+            <enclosure url="http://archive.org/download/princess_mars_tc_librivox/princessofmars_28_burroughs.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">EE258BDC-D934-4B3F-A7D3-3008A618705F</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 1 - 01. Track01.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2001.%20Track01.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2001.%20Track01.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">4E2C9F23-F971-4D7B-B050-AEBC5C435CBA</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 1 - 02. Track02.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2002.%20Track02.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2002.%20Track02.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F9600FE6-AF42-4694-A407-794272CB7681</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 1 - 03. Track03.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2003.%20Track03.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2003.%20Track03.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">0A002B01-E866-408D-9DF9-49860A47CDE7</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 1 - 04. Track04.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2004.%20Track04.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2004.%20Track04.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8BFC0CFD-9D96-4AD1-A919-B25A499D1260</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 1 - 05. Track05.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2005.%20Track05.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:04 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2005.%20Track05.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">35B594AA-A67E-473F-96C3-0212B2E88AB7</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 1 - 06. Track06.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2006.%20Track06.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2006.%20Track06.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">00C7008D-2835-4AC7-888A-A61DAF00F791</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 1 - 07. Track07.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2007.%20Track07.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:06 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2007.%20Track07.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">C13284CC-8E0A-4DD0-95B4-F02965F80175</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 1 - 08. Track08.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2008.%20Track08.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:07 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%201%20-%2008.%20Track08.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A2D9908E-84D8-44F9-A186-416B24D900CB</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 2 - 01. Track01.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2001.%20Track01.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:08 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2001.%20Track01.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">5221B9E7-A75D-45D4-8321-5791756C19DC</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 2 - 02. Track02.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2002.%20Track02.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:09 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2002.%20Track02.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">B745C3FF-C86F-4F80-9B9C-B9B0564FCBFE</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 2 - 03. Track03.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2003.%20Track03.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:10 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2003.%20Track03.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">BCD88C71-5B2C-4C09-BA4E-6ED722C1A120</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 2 - 04. Track04.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2004.%20Track04.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:11 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2004.%20Track04.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">4BA4A271-481D-4999-B112-F318F23AF48C</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 2 - 05. Track05.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2005.%20Track05.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:12 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2005.%20Track05.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">0CA5A0E4-4B04-4ADD-B0B3-F6C7F44404F4</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 2 - 06. Track06.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2006.%20Track06.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:13 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2006.%20Track06.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">99D83B34-5076-4ED1-81BD-79F23802781F</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 2 - 07. Track07.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2007.%20Track07.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:14 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2007.%20Track07.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">3C57F5BD-42BB-4455-BF79-0901243477E9</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 2 - 08. Track08.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2008.%20Track08.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:15 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%202%20-%2008.%20Track08.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">8C8E3D02-4D07-4153-85F8-75B5DAD084BC</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 3 - 01. Track01.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%203%20-%2001.%20Track01.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:16 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%203%20-%2001.%20Track01.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">2F015D90-AD46-476E-948D-D15C0A85211B</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 3 - 02. Track02.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%203%20-%2002.%20Track02.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:17 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%203%20-%2002.%20Track02.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">093E4CC7-580C-4495-A585-066AC3135532</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 3 - 03. Track03.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%203%20-%2003.%20Track03.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:18 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%203%20-%2003.%20Track03.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">743B91CC-46B8-4756-9D4C-E3DDDA5C7CEC</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 3 - 04. Track04.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%203%20-%2004.%20Track04.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:19 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%203%20-%2004.%20Track04.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">203AA978-4D5A-47E5-99CB-8FF3B2C30889</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 3 - 05. Track05.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%203%20-%2005.%20Track05.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:20 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%203%20-%2005.%20Track05.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">0B5911B6-1D86-4991-A9A0-795F138A973D</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 3 - 06. Track06.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%203%20-%2006.%20Track06.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:21 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%203%20-%2006.%20Track06.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">890A403E-4410-42CF-A9DD-5A8F738172C7</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 3 - 07. Track07.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%203%20-%2007.%20Track07.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:22 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%203%20-%2007.%20Track07.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">DBDBE070-392D-4FBC-ADCC-D9B0E145EA56</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 4 - 01. Track01.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2001.%20Track01.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:23 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2001.%20Track01.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">557D6E4F-55FE-41D1-A73A-8B12E27B545E</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 4 - 02. Track02.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2002.%20Track02.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:24 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2002.%20Track02.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">FACC18FC-8622-4013-B0FD-7C84A156EC78</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 4 - 03. Track03.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2003.%20Track03.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:25 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2003.%20Track03.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">7A2E39ED-77C4-4345-8772-CA5BD3AA542A</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 4 - 04. Track04.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2004.%20Track04.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:26 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2004.%20Track04.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">76AD1CA6-37B5-4277-8433-C0019F82540A</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 4 - 05. Track05.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2005.%20Track05.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:27 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2005.%20Track05.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">47AA9212-644F-4039-9157-8FE57913FED6</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 4 - 06. Track06.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2006.%20Track06.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:28 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2006.%20Track06.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">C8D80A08-8D69-4EC6-9772-C6C4133D9FD8</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 4 - 07. Track07.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2007.%20Track07.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:29 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2007.%20Track07.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">163E4C15-18F8-4710-9429-2B32FE181F84</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 4 - 08. Track08.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2008.%20Track08.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:30 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2008.%20Track08.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">6EDE638B-93D4-43D1-9EB2-8D8266F3DB14</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 1- The Fellowship of the Ring - Disc 4 - 09. Track09.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2009.%20Track09.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:31 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%201-%20The%20Fellowship%20of%20the%20Ring%20-%20Disc%204%20-%2009.%20Track09.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">2628E96C-28DD-4AB7-9145-4404097ABBFC</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 1 - 01. Track01.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2001.%20Track01.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:32 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2001.%20Track01.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">073AAC70-DDD0-4E41-B0F7-F1506ED90947</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 1 - 02. Track02.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2002.%20Track02.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:33 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2002.%20Track02.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">94682132-6FA4-4D14-85E6-2765F75B0C89</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 1 - 03. Track03.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2003.%20Track03.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:34 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2003.%20Track03.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">055DA760-B2D6-4EDA-B536-BED626269885</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 1 - 04. Track04.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2004.%20Track04.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:35 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2004.%20Track04.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F545533D-42F9-4972-8CC4-463EE7196D2D</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 1 - 05. Track05.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2005.%20Track05.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:36 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2005.%20Track05.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">02DBD1EC-8348-4D1B-BB25-D7E1E5E5F862</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 1 - 06. Track06.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2006.%20Track06.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:37 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2006.%20Track06.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A3E7C924-FFDA-4AFE-B151-F39C2A16B066</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 1 - 07. Track07.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2007.%20Track07.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:38 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2007.%20Track07.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">E40084AF-468B-4453-8EBF-AE8BBC5D6A68</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 1 - 08. Track08.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2008.%20Track08.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:39 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2008.%20Track08.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">5C284F11-6BBA-4D60-8C8B-5B382E7B6D5D</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 1 - 09. Track09.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2009.%20Track09.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:40 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2009.%20Track09.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">AAFEDAE6-5C83-4E67-946E-42718985220D</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 1 - 10. Track10.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2010.%20Track10.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:41 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%201%20-%2010.%20Track10.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">199B18E0-5EB3-4FAA-B548-BF8C2036EB15</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 2 - 01. Track01.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2001.%20Track01.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:42 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2001.%20Track01.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">C7DA14DC-6E19-42FE-82B5-AB99C96DBEFC</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 2 - 02. Track02.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2002.%20Track02.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:43 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2002.%20Track02.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">DD303A6A-5764-4DB3-A4CA-198299ADFB91</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 2 - 03. Track03.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2003.%20Track03.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:44 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2003.%20Track03.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">77EDC02A-1F3B-47D9-90B4-CACF79386102</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 2 - 04. Track04.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2004.%20Track04.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:45 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2004.%20Track04.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">A1E77005-DCDA-47EC-8AF0-0BE417B23958</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 2 - 05. Track05.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2005.%20Track05.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:46 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2005.%20Track05.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D0075E6C-4B5E-4B61-AE73-F86B630B69B2</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 2 - 06. Track06.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2006.%20Track06.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:47 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2006.%20Track06.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">44F011BF-8C3D-4CD6-B06F-7D8A6D9D59AA</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 2 - 07. Track07.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2007.%20Track07.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:48 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2007.%20Track07.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">9B3D441D-1F17-4BCE-AD06-873E5500BC83</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 2 - 08. Track08.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2008.%20Track08.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:49 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2008.%20Track08.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">2C09A40E-99D0-41A0-A747-16D17118597D</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 2 - 09. Track09.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2009.%20Track09.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:50 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%202%20-%2009.%20Track09.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">0967927E-1CCD-4FD1-AF56-D0C3F0D5F0E8</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 3 - 01. Track01.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2001.%20Track01.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:51 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2001.%20Track01.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F10138E2-96AF-415F-BEFA-07108322D415</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 3 - 02. Track02.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2002.%20Track02.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:52 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2002.%20Track02.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">D091DBAD-45C6-4F00-BA62-0689E77215BF</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 3 - 03. Track03.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2003.%20Track03.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:53 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2003.%20Track03.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">21D8B8A6-EA76-4E32-811D-0A1FE87AF419</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 3 - 04. Track04.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2004.%20Track04.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:54 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2004.%20Track04.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">01EA0BA0-39AD-423F-BF9E-F9286C4A0DDC</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 3 - 05. Track05.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2005.%20Track05.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:55 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2005.%20Track05.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">37764B1B-BF06-4574-B126-062B44AC3BB4</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 3 - 06. Track06.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2006.%20Track06.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:56 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2006.%20Track06.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">5AFC3977-56F7-46A1-81B5-2D374B105B9E</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 3 - 07. Track07.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2007.%20Track07.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:57 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2007.%20Track07.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">4394190F-97C1-4B7D-BE1A-C7380238D1DE</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 3 - 08. Track08.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2008.%20Track08.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:58 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%203%20-%2008.%20Track08.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">2F703285-231D-40A1-AF13-9FF1C0FC4DB7</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>J.R.R. Tolkien - The Lord of the Rings Book 2- The Two Towers - Disc 4 - 01. Track01.mp3</title>
+            <link>http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%204%20-%2001.%20Track01.mp3</link>
+            <pubDate>Sun, 24 May 2020 12:41:59 -0500</pubDate>
+            <enclosure url="http://archive.org/download/the-lord-of-the-rings-bbc-radio-drama/J.R.R.%20Tolkien%20-%20The%20Lord%20of%20the%20Rings%20Book%202-%20The%20Two%20Towers%20-%20Disc%204%20-%2001.%20Track01.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">F55B7823-3A4A-4FFB-9932-1DB305AB4DB9</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Foundation Trilogy -- 1 of 8 -- Psychohistory and Encyclopedia.mp3</title>
+            <link>http://archive.org/download/foundationtrilogythe--bbc1973radiodrama8hours/Foundation%20Trilogy%20--%201%20of%208%20--%20Psychohistory%20and%20Encyclopedia.mp3</link>
+            <pubDate>Tue, 19 May 2020 08:29:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/foundationtrilogythe--bbc1973radiodrama8hours/Foundation%20Trilogy%20--%201%20of%208%20--%20Psychohistory%20and%20Encyclopedia.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">58E41630-28BC-4888-9BFD-B473FBC8B964</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Foundation Trilogy -- 2 of 8 -- The Maze.mp3</title>
+            <link>http://archive.org/download/foundationtrilogythe--bbc1973radiodrama8hours/Foundation%20Trilogy%20--%202%20of%208%20--%20The%20Maze.mp3</link>
+            <pubDate>Tue, 19 May 2020 08:29:01 -0500</pubDate>
+            <enclosure url="http://archive.org/download/foundationtrilogythe--bbc1973radiodrama8hours/Foundation%20Trilogy%20--%202%20of%208%20--%20The%20Maze.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">3230ECC4-B196-49BB-94ED-6D7197696EC2</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Foundation Trilogy -- 3 of 8 -- The Merchant Princess.mp3</title>
+            <link>http://archive.org/download/foundationtrilogythe--bbc1973radiodrama8hours/Foundation%20Trilogy%20--%203%20of%208%20--%20The%20Merchant%20Princess.mp3</link>
+            <pubDate>Tue, 19 May 2020 08:29:02 -0500</pubDate>
+            <enclosure url="http://archive.org/download/foundationtrilogythe--bbc1973radiodrama8hours/Foundation%20Trilogy%20--%203%20of%208%20--%20The%20Merchant%20Princess.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">110FC35E-8C5A-4E2E-B358-7323AAEDD3D9</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Foundation Trilogy -- 4 of 8 -- The General.mp3</title>
+            <link>http://archive.org/download/foundationtrilogythe--bbc1973radiodrama8hours/Foundation%20Trilogy%20--%204%20of%208%20--%20The%20General.mp3</link>
+            <pubDate>Tue, 19 May 2020 08:29:03 -0500</pubDate>
+            <enclosure url="http://archive.org/download/foundationtrilogythe--bbc1973radiodrama8hours/Foundation%20Trilogy%20--%204%20of%208%20--%20The%20General.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">B88044EE-D9C1-42AD-A837-7511C49B1158</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Foundation Trilogy -- 5 of 8 -- The Mule.mp3</title>
+            <link>http://archive.org/download/foundationtrilogythe--bbc1973radiodrama8hours/Foundation%20Trilogy%20--%205%20of%208%20--%20The%20Mule.mp3</link>
+            <pubDate>Tue, 19 May 2020 08:29:04 -0500</pubDate>
+            <enclosure url="http://archive.org/download/foundationtrilogythe--bbc1973radiodrama8hours/Foundation%20Trilogy%20--%205%20of%208%20--%20The%20Mule.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">BF3FE223-7CAA-421B-8D3E-BF8CEC4187F8</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Foundation Trilogy -- 6 of 8 -- Flight From the Mule.mp3</title>
+            <link>http://archive.org/download/foundationtrilogythe--bbc1973radiodrama8hours/Foundation%20Trilogy%20--%206%20of%208%20--%20Flight%20From%20the%20Mule.mp3</link>
+            <pubDate>Tue, 19 May 2020 08:29:05 -0500</pubDate>
+            <enclosure url="http://archive.org/download/foundationtrilogythe--bbc1973radiodrama8hours/Foundation%20Trilogy%20--%206%20of%208%20--%20Flight%20From%20the%20Mule.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">9001067C-3BA1-4E0E-8828-9D0C4BB408A9</guid>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>BBC The Man Who Came to Dinner-20001225-AP.mp3</title>
+            <link>http://archive.org/download/BBCTheManWhoCameToDinner20001225AP/BBC%20The%20Man%20Who%20Came%20to%20Dinner-20001225-AP.mp3</link>
+            <pubDate>Thu, 21 May 2020 11:45:00 -0500</pubDate>
+            <enclosure url="http://archive.org/download/BBCTheManWhoCameToDinner20001225AP/BBC%20The%20Man%20Who%20Came%20to%20Dinner-20001225-AP.mp3" length="1" type="audio/mpeg"/>
+            <guid isPermaLink="false">97908E7D-8D47-41F8-9FDC-85095303FA05</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
